@@ -1,0 +1,63 @@
+Findings Summary
+================
+
+normalize_utf16be_squeezed_analysis.log:
+  Total entries: 770448
+  Valid Unicode: 96909
+  Invalid Unicode: 673539
+  Invalid Hex: 0
+
+normalize_utf16be_unsqueezed_analysis.log:
+  Total entries: 829840
+  Valid Unicode: 103869
+  Invalid Unicode: 725971
+  Invalid Hex: 0
+
+normalize_utf16le_squeezed_analysis.log:
+  Total entries: 770448
+  Valid Unicode: 96911
+  Invalid Unicode: 673537
+  Invalid Hex: 0
+
+normalize_utf16le_unsqueezed_analysis.log:
+  Total entries: 829840
+  Valid Unicode: 103871
+  Invalid Unicode: 725969
+  Invalid Hex: 0
+
+normalize_utf32be_squeezed_analysis.log:
+  Total entries: 1525008
+  Valid Unicode: 281216
+  Invalid Unicode: 1243792
+  Invalid Hex: 0
+
+normalize_utf32be_unsqueezed_analysis.log:
+  Total entries: 1660176
+  Valid Unicode: 304976
+  Invalid Unicode: 1355200
+  Invalid Hex: 0
+
+normalize_utf32le_squeezed_analysis.log:
+  Total entries: 1525008
+  Valid Unicode: 281222
+  Invalid Unicode: 1243786
+  Invalid Hex: 0
+
+normalize_utf32le_unsqueezed_analysis.log:
+  Total entries: 1660176
+  Valid Unicode: 304982
+  Invalid Unicode: 1355194
+  Invalid Hex: 0
+
+normalize_utf7_squeezed_analysis.log:
+  Total entries: 392336
+  Valid Unicode: 38525
+  Invalid Unicode: 353811
+  Invalid Hex: 0
+
+normalize_utf7_unsqueezed_analysis.log:
+  Total entries: 414864
+  Valid Unicode: 40637
+  Invalid Unicode: 374227
+  Invalid Hex: 0
+
