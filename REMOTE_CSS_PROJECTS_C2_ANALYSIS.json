@@ -1,0 +1,305 @@
+{
+  "sanitize.css": {
+    "info": {
+      "url": "https://raw.githubusercontent.com/csstools/sanitize.css/main/sanitize.css",
+      "description": "CSS normalization and opinionated reset"
+    },
+    "file_analysis": {
+      "size": 7276,
+      "lines": 357,
+      "selectors": 35,
+      "properties": 73,
+      "comments": 70,
+      "asterisks": 230,
+      "vendor_prefixes": 22
+    },
+    "c2_analysis": {
+      "beacon_indicators": {
+        "count": 1,
+        "patterns": [
+          "ping"
+        ],
+        "positions": [
+          1640
+        ]
+      },
+      "c2_commands": {
+        "count": 1,
+        "patterns": [
+          "control"
+        ],
+        "positions": [
+          4426
+        ]
+      }
+    },
+    "steganography": {
+      "invisible_chars": [],
+      "whitespace_patterns": [],
+      "color_steg": [
+        "#a0a0a0"
+      ],
+      "suspicious_comments": [
+        "/**\n * 1. Use the default cursor in all browsers (opinionated).\n * 2. Change the line height in all browsers (opinionated).\n * 3. Breaks words to prevent overflow in all browsers (opinionated).\n * 4. Use a 4-space tab width in all browsers (opinionated).\n * 5. Remove the grey highlight on links in iOS (opinionated).\n * 6. Prevent adjustments of font size after orientation changes in iOS.\n */",
+        "/**\n * 1. Correct the inheritance and scaling of font size in all browsers.\n * 2. Correct the odd `em` font sizing in all browsers.\n * 3. Prevent overflow of the container in all browsers (opinionated).\n */",
+        "/**\n * 1. Collapse border spacing in all browsers (opinionated).\n * 2. Correct table border color in Chrome, Edge, and Safari.\n * 3. Remove text indentation from table contents in Chrome, Edge, and Safari.\n */"
+      ]
+    },
+    "encoding_analysis": {
+      "base64_patterns": [],
+      "hex_patterns": [],
+      "unicode_escapes": [],
+      "html_entities": []
+    },
+    "security_assessment": {
+      "risk_level": "HIGH",
+      "risk_factors": [
+        "high_asterisk_count_230"
+      ],
+      "c2_indicators": [
+        "ping",
+        "control"
+      ],
+      "recommendations": [
+        "CRITICAL: Contains C2 communication patterns - immediate investigation required",
+        "Review high asterisk count - may indicate steganographic encoding"
+      ]
+    }
+  },
+  "modern-normalize": {
+    "info": {
+      "url": "https://raw.githubusercontent.com/sindresorhus/modern-normalize/main/modern-normalize.css",
+      "description": "Modern alternative to CSS resets"
+    },
+    "file_analysis": {
+      "size": 3358,
+      "lines": 224,
+      "selectors": 19,
+      "properties": 36,
+      "comments": 38,
+      "asterisks": 93,
+      "vendor_prefixes": 13
+    },
+    "c2_analysis": {},
+    "steganography": {
+      "invisible_chars": [],
+      "whitespace_patterns": [],
+      "color_steg": [],
+      "suspicious_comments": [
+        "/**\n1. Improve consistency of default fonts in all browsers. (https://github.com/sindresorhus/modern-normalize/issues/3)\n2. Correct the line height in all browsers.\n3. Prevent adjustments of font size after orientation changes in iOS.\n4. Use a more readable tab size (opinionated).\n*/"
+      ]
+    },
+    "encoding_analysis": {
+      "base64_patterns": [
+        "com/sindresorhus/modern",
+        "com/sindresorhus/modern",
+        "com/sindresorhus/modern"
+      ],
+      "hex_patterns": [],
+      "unicode_escapes": [],
+      "html_entities": []
+    },
+    "security_assessment": {
+      "risk_level": "MEDIUM",
+      "risk_factors": [
+        "high_asterisk_count_93"
+      ],
+      "c2_indicators": [],
+      "recommendations": [
+        "WARNING: Contains potentially suspicious patterns - review recommended",
+        "Review high asterisk count - may indicate steganographic encoding"
+      ]
+    }
+  },
+  "ress": {
+    "info": {
+      "url": "https://raw.githubusercontent.com/filipelinhares/ress/master/ress.css",
+      "description": "Modern CSS reset"
+    },
+    "file_analysis": {
+      "size": 6769,
+      "lines": 282,
+      "selectors": 46,
+      "properties": 86,
+      "comments": 62,
+      "asterisks": 126,
+      "vendor_prefixes": 26
+    },
+    "c2_analysis": {
+      "beacon_indicators": {
+        "count": 4,
+        "patterns": [
+          "ping"
+        ],
+        "positions": [
+          5340,
+          5406,
+          5476,
+          5542
+        ]
+      },
+      "c2_commands": {
+        "count": 2,
+        "patterns": [
+          "control"
+        ],
+        "positions": [
+          4459,
+          6595
+        ]
+      }
+    },
+    "steganography": {
+      "invisible_chars": [],
+      "whitespace_patterns": [],
+      "color_steg": [],
+      "suspicious_comments": []
+    },
+    "encoding_analysis": {
+      "base64_patterns": [
+        "com/unruthless/413930"
+      ],
+      "hex_patterns": [],
+      "unicode_escapes": [],
+      "html_entities": []
+    },
+    "security_assessment": {
+      "risk_level": "HIGH",
+      "risk_factors": [
+        "high_asterisk_count_126"
+      ],
+      "c2_indicators": [
+        "ping",
+        "control"
+      ],
+      "recommendations": [
+        "CRITICAL: Contains C2 communication patterns - immediate investigation required",
+        "Review high asterisk count - may indicate steganographic encoding"
+      ]
+    }
+  },
+  "normalize.css": {
+    "info": {
+      "url": "https://raw.githubusercontent.com/necolas/normalize.css/master/normalize.css",
+      "description": "Modern, HTML5-ready alternative to CSS resets"
+    },
+    "file_analysis": {
+      "size": 6138,
+      "lines": 350,
+      "selectors": 34,
+      "properties": 59,
+      "comments": 71,
+      "asterisks": 220,
+      "vendor_prefixes": 21
+    },
+    "c2_analysis": {
+      "beacon_indicators": {
+        "count": 2,
+        "patterns": [
+          "ping"
+        ],
+        "positions": [
+          822,
+          4060
+        ]
+      }
+    },
+    "steganography": {
+      "invisible_chars": [],
+      "whitespace_patterns": [],
+      "color_steg": [],
+      "suspicious_comments": [
+        "/**\n * 1. Correct the text wrapping in Edge and IE.\n * 2. Correct the color inheritance from `fieldset` elements in IE.\n * 3. Remove the padding so developers are not caught out when they zero out\n *    `fieldset` elements in all browsers.\n */"
+      ]
+    },
+    "encoding_analysis": {
+      "base64_patterns": [
+        "com/necolas/normalize"
+      ],
+      "hex_patterns": [],
+      "unicode_escapes": [],
+      "html_entities": []
+    },
+    "security_assessment": {
+      "risk_level": "HIGH",
+      "risk_factors": [
+        "high_asterisk_count_220"
+      ],
+      "c2_indicators": [
+        "ping"
+      ],
+      "recommendations": [
+        "CRITICAL: Contains C2 communication patterns - immediate investigation required",
+        "Review high asterisk count - may indicate steganographic encoding"
+      ]
+    }
+  },
+  "comparison": {
+    "risk_levels": {
+      "sanitize.css": "HIGH",
+      "modern-normalize": "MEDIUM",
+      "ress": "HIGH",
+      "normalize.css": "HIGH"
+    },
+    "c2_findings": {
+      "sanitize.css": {
+        "beacon_indicators": {
+          "count": 1,
+          "patterns": [
+            "ping"
+          ],
+          "positions": [
+            1640
+          ]
+        },
+        "c2_commands": {
+          "count": 1,
+          "patterns": [
+            "control"
+          ],
+          "positions": [
+            4426
+          ]
+        }
+      },
+      "ress": {
+        "beacon_indicators": {
+          "count": 4,
+          "patterns": [
+            "ping"
+          ],
+          "positions": [
+            5340,
+            5406,
+            5476,
+            5542
+          ]
+        },
+        "c2_commands": {
+          "count": 2,
+          "patterns": [
+            "control"
+          ],
+          "positions": [
+            4459,
+            6595
+          ]
+        }
+      },
+      "normalize.css": {
+        "beacon_indicators": {
+          "count": 2,
+          "patterns": [
+            "ping"
+          ],
+          "positions": [
+            822,
+            4060
+          ]
+        }
+      }
+    },
+    "common_patterns": {},
+    "unique_anomalies": {}
+  }
+}
