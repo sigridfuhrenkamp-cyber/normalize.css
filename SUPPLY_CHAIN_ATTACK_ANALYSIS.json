@@ -1,0 +1,5034 @@
+{
+  "repository_analysis": {
+    "normalize.css": {
+      "name": "normalize.css",
+      "path": "normalize-css-upstream",
+      "total_commits": 360,
+      "commits": [
+        {
+          "hash": "fc091cce1534909334c1911709a39c22d406977b",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2018-11-04 18:29:43 -0800",
+          "message": "8.0.1",
+          "files": []
+        },
+        {
+          "hash": "df07c00a92c683e591b68bcc45075ff7253b7482",
+          "author": "thasmo@gmail.com",
+          "date": "2018-02-15 22:19:26 +0100",
+          "message": "Render the main element correctly in IE",
+          "files": []
+        },
+        {
+          "hash": "b6cc0ceb21ce1dadce60f3a8269d0601345e57e3",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2018-11-04 17:37:24 -0800",
+          "message": "Remove stylelint",
+          "files": []
+        },
+        {
+          "hash": "7369f566898b8cefc2649b6a66e112857de4c46f",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2018-02-11 07:53:38 -0800",
+          "message": "Fix typo in CHANGELOG",
+          "files": []
+        },
+        {
+          "hash": "4ab3de5bdd26b161c3c82a5a2f72df3e57a8e4bf",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2018-02-08 15:59:35 -0800",
+          "message": "v8.0.0",
+          "files": []
+        },
+        {
+          "hash": "93a6e5fa92cbc30dc37be7d767ae713092bafbec",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2018-02-08 15:57:42 -0800",
+          "message": "Update CHANGELOG",
+          "files": []
+        },
+        {
+          "hash": "f7c98c4c859c15363763f10a439b63d85b9afba0",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2018-02-08 15:48:41 -0800",
+          "message": "Don't remove search input cancel button in Chrome/Safari",
+          "files": []
+        },
+        {
+          "hash": "9f4876b9beae9bf1807425325e2b5b1b79a5ad21",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2018-02-08 15:43:17 -0800",
+          "message": "Add package-lock.json",
+          "files": []
+        },
+        {
+          "hash": "906395b61129376fd157ca66d28cfecbf26cc00f",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2018-02-08 15:39:34 -0800",
+          "message": "Remove bower",
+          "files": []
+        },
+        {
+          "hash": "004d58b2f2e0ac3d03d075f8de46ce7c8234742f",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2018-02-08 14:54:26 -0800",
+          "message": "Update browser support",
+          "files": []
+        },
+        {
+          "hash": "331e2e400e9e975dbf717a98df5cd609e0361164",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2018-02-08 15:29:26 -0800",
+          "message": "Point to yarnpkg's list of CDNs",
+          "files": []
+        },
+        {
+          "hash": "1aa10ce89fa788e87592310014b27d9c4126d801",
+          "author": "hola@isma.uy",
+          "date": "2017-10-19 00:02:33 -0300",
+          "message": "Remove the font-size test on html tag",
+          "files": []
+        },
+        {
+          "hash": "ca8a357baf6e724ab84843ac4607f8d2024cf0f8",
+          "author": "andrey.chechkin@me.com",
+          "date": "2017-09-06 13:25:17 +0300",
+          "message": "Inherit font family for inputs",
+          "files": []
+        },
+        {
+          "hash": "ff155ffecdab5d04c420b6c219c974adb34492e2",
+          "author": "anton@sotkov.com",
+          "date": "2017-08-13 14:28:20 +0300",
+          "message": "Restore gaps in links underline in iOS 8+ and Safari 8+",
+          "files": []
+        },
+        {
+          "hash": "73b6b0c7e8690ab5005bca9d7e13d3fb319c98ac",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2017-05-02 11:14:32 -0700",
+          "message": "7.0.0",
+          "files": []
+        },
+        {
+          "hash": "b4a8fdaf8321093b1e3cad612fb76cf2b7d3275d",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2017-05-02 11:12:57 -0700",
+          "message": "Revert changes to 'body' and form elements",
+          "files": []
+        },
+        {
+          "hash": "62b4a86c2863f5a4475d8fb98ddf1b927d7d7bfb",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2017-05-02 11:07:41 -0700",
+          "message": "Non-functional maintenance",
+          "files": []
+        },
+        {
+          "hash": "44f13250a495744596dc7f2cad6b08ab6a578b2f",
+          "author": "yochem@icloud.com",
+          "date": "2017-05-01 16:54:58 +0200",
+          "message": "Fix Markdown syntax (#663)",
+          "files": []
+        },
+        {
+          "hash": "7ac507237949560935c6173428251c933cfd8026",
+          "author": "rellect@gmail.com",
+          "date": "2017-05-01 17:54:33 +0300",
+          "message": "Correct the padding in firefox (#671)",
+          "files": []
+        },
+        {
+          "hash": "2ac336c420fc59680df4d02ff50d85f97c8518d6",
+          "author": "talknmime@gmail.com",
+          "date": "2017-05-01 10:52:55 -0400",
+          "message": "Update CHANGELOG.md (#670)",
+          "files": []
+        },
+        {
+          "hash": "1b16be036f3e7b3fbcab500b5715599bed15e4b1",
+          "author": "gardnerjohng@gmail.com",
+          "date": "2017-04-11 23:02:32 +1000",
+          "message": "Stop test.html from skewing language classification (#667)",
+          "files": []
+        },
+        {
+          "hash": "790b3b3ffee0af3f97e960ce66ce6e4293b6b058",
+          "author": "pere.jobs@gmail.com",
+          "date": "2017-03-28 16:08:35 +0300",
+          "message": "Fix markdown syntax (#662)",
+          "files": []
+        },
+        {
+          "hash": "91f668be643185dd7b08f122ccee0df711d237c0",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2017-03-26 18:23:57 -0400",
+          "message": "6.0.0",
+          "files": []
+        },
+        {
+          "hash": "4411f95888e1eacf6dbba66e8d63bb648eafd6fa",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2017-03-26 18:20:09 -0400",
+          "message": "Include iOS Safari in Browser support",
+          "files": []
+        },
+        {
+          "hash": "eb7b5e569b0da7c9c24dbcdc31f5150b3719e5f2",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2017-03-26 18:19:54 -0400",
+          "message": "Update stylelint configuration",
+          "files": []
+        },
+        {
+          "hash": "a5629618ea433fd3762c5af53499b5806169408b",
+          "author": "github@mattbrundage.com",
+          "date": "2017-03-26 18:14:42 -0400",
+          "message": "Update normalize.css (#661)",
+          "files": []
+        },
+        {
+          "hash": "dbc5f8e064443e4cb7df1cbe9d719888e6024841",
+          "author": "gardnerjohng@gmail.com",
+          "date": "2017-03-27 09:12:30 +1100",
+          "message": "Fix repository's language classification on GitHub (#660)",
+          "files": []
+        },
+        {
+          "hash": "b5f0e9d79a997952f0d68f55c12ec3b76dd65882",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2017-03-26 18:12:14 -0400",
+          "message": "Remove all opinionated rules (#649)",
+          "files": []
+        },
+        {
+          "hash": "1da0911dfb7f4205e938f17952ddd826f7e79931",
+          "author": "virtually.johnalbin@gmail.com",
+          "date": "2016-11-18 15:34:10 +0800",
+          "message": "Place the document heading above the html element's comment. (#639)",
+          "files": []
+        },
+        {
+          "hash": "4559de001bc15838c0314c713645086bdef64bc3",
+          "author": "zlatanvasovic@gmail.com",
+          "date": "2016-10-04 23:45:30 +0200",
+          "message": "Update homepage URL (#633)",
+          "files": []
+        },
+        {
+          "hash": "f06565fe8e0e1ad1b88f2732719e28ed97bde40f",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-10-03 08:57:00 -0400",
+          "message": "5.0.0",
+          "files": []
+        },
+        {
+          "hash": "3404854d02061398a1a77a8ba6ffe27fe67757e1",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-10-03 08:54:33 -0400",
+          "message": "Update macOS reference",
+          "files": []
+        },
+        {
+          "hash": "f9b42c6a3bd89ec6d4e1506051cbc63128802dcb",
+          "author": "github@mattbrundage.com",
+          "date": "2016-09-13 12:33:31 -0400",
+          "message": "Update text-size-adjust documentation",
+          "files": []
+        },
+        {
+          "hash": "2b6082d43a9d5f2584e77e69cd145c87ad6103be",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-08-21 19:11:06 -0400",
+          "message": "Update semver strategy (#615)",
+          "files": []
+        },
+        {
+          "hash": "5d728b83a5ee6ee3e9e3158a28d6369718014e0c",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-08-08 09:43:30 -0400",
+          "message": "More explicitly define font resets on form controls (#607)",
+          "files": []
+        },
+        {
+          "hash": "db6567c3da686f4a322a126dd0e68a36935f142e",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-07-06 23:22:17 -0400",
+          "message": "Merge branch 'feature/html-sectioning'",
+          "files": []
+        },
+        {
+          "hash": "55ed05a79c0fd7a9a2c330c6925b982a7d5b307c",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-07-06 11:40:39 -0400",
+          "message": "Correct the display of <summary> in all browsers",
+          "files": []
+        },
+        {
+          "hash": "bbcf62d86f5e327673283900221c8ababa836671",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-07-06 11:23:05 -0400",
+          "message": "Use HTML Living Standard sectioning",
+          "files": []
+        },
+        {
+          "hash": "0dc4df63b7f6643d6dc42f65dc0129abadfbd483",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-07-06 09:55:36 -0400",
+          "message": "Merge branch 'battaglr-placeholder'",
+          "files": []
+        },
+        {
+          "hash": "f081e459e4ea9f9fce9184cc69e4d3b7c1226e92",
+          "author": "lucianobattagliero+git@gmail.com",
+          "date": "2016-06-30 19:59:08 -0300",
+          "message": "Remove `placeholder` normalization",
+          "files": []
+        },
+        {
+          "hash": "255074ef4a761fa7e77689cbebe6e5fb70d529c2",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-06-30 10:01:38 -0400",
+          "message": "v4.2.0",
+          "files": []
+        },
+        {
+          "hash": "fa7d65ab39f4c0623b6379793160a32254aa4ffe",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-06-30 09:49:26 -0400",
+          "message": "Update CHANGELOG.md date",
+          "files": []
+        },
+        {
+          "hash": "bfe6c20e184559b0ce92d394b1b53f8398157012",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-06-30 01:36:25 -0400",
+          "message": "4.2.0",
+          "files": []
+        },
+        {
+          "hash": "25a109d84531fe64da926e038cd46f079febc197",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-06-30 01:18:20 -0400",
+          "message": "Merge branch 'battaglr-patch-1'",
+          "files": []
+        },
+        {
+          "hash": "6f78003ffd58dd57733c7d35777c22cc174beb17",
+          "author": "lucianobattagliero+git@gmail.com",
+          "date": "2016-06-25 15:48:04 -0300",
+          "message": "Remove \"heading\" reference since is redundant",
+          "files": []
+        },
+        {
+          "hash": "fe7a07c2c56773faa8d24eac9b1984f2b6b81a61",
+          "author": "lucianobattagliero+git@gmail.com",
+          "date": "2016-06-25 15:44:48 -0300",
+          "message": "Simplify headings normalization comment",
+          "files": []
+        },
+        {
+          "hash": "ceef420f3a248578004fb18d4381f622495b4c0e",
+          "author": "jmenichelli@gmail.com",
+          "date": "2016-06-16 11:04:06 -0300",
+          "message": "Add rule for all headings lh (#596)",
+          "files": []
+        },
+        {
+          "hash": "02af1fdfaf71f589ea689d4b957eb3bb1294a228",
+          "author": "slavanga@users.noreply.github.com",
+          "date": "2016-04-18 03:45:24 +0200",
+          "message": "Restore optgroup font normalisation (#589)",
+          "files": []
+        },
+        {
+          "hash": "39c21b3678ff1ebd2aebc51ec56d55d18a5a68e3",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-04-12 08:54:53 -0400",
+          "message": "4.1.1",
+          "files": []
+        },
+        {
+          "hash": "a8e70333dcab7ff8937bf8e0232764de838d8795",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-04-12 08:43:06 -0400",
+          "message": "4.1.0 (#576)",
+          "files": []
+        },
+        {
+          "hash": "26b2588335ea9a94844a062255d3415c958e0b86",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-04-11 19:48:51 -0400",
+          "message": "Normalize file select buttons (#574)",
+          "files": []
+        },
+        {
+          "hash": "2c4e2182e0ed22420e7dbd3b63a21bf01f25956a",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-04-11 19:35:02 -0400",
+          "message": "Correct the outline of search inputs in Safari (#575)",
+          "files": []
+        },
+        {
+          "hash": "8ed3140d5235da2e8b9d3efec9e4ae161db64d95",
+          "author": "aleks@hudochenkov.com",
+          "date": "2016-04-11 15:59:42 +0300",
+          "message": "Remove gaps in links underline in iOS 8+ and Safari 8+ (#573)",
+          "files": []
+        },
+        {
+          "hash": "e31503b635cefa5f4fb4e8496ed7f506c3b2e07c",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-04-10 19:08:40 -0400",
+          "message": "Merge pull request #569 from necolas/fix/549",
+          "files": []
+        },
+        {
+          "hash": "b1f3b0c0aa3da28019bf8091fafd1699bff9aec3",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-04-10 18:47:13 -0400",
+          "message": "Limit Firefox focus normalization to buttons",
+          "files": []
+        },
+        {
+          "hash": "49d20b834e398709571bfc93f0885c916fa04c45",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-04-10 18:21:40 -0400",
+          "message": "Merge pull request #571 from necolas/fix/550",
+          "files": []
+        },
+        {
+          "hash": "809d747e384731068b116e03db3d3c8de4b499b2",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-04-10 18:21:01 -0400",
+          "message": "Merge pull request #568 from necolas/fix/562",
+          "files": []
+        },
+        {
+          "hash": "1ea0cc6e39dd53dbcb1a0f6462952d7151ec6617",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-04-07 11:09:53 -0400",
+          "message": "Correct the text style of placeholders in Chrome, Edge, and Safari",
+          "files": []
+        },
+        {
+          "hash": "e4a7827199b61e1cdcabe807044b3a2384bba924",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-04-06 22:50:53 -0400",
+          "message": "Remove overflow from select and update multiple overflow",
+          "files": []
+        },
+        {
+          "hash": "ab3abb6d36cf3cd66e22faeec65dcef1196ba1c1",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-03-29 22:07:11 -0400",
+          "message": "Merge pull request #563 from necolas/fix/544",
+          "files": []
+        },
+        {
+          "hash": "49a7a7df8b751dcada7ad2c6e1618bb250ad4014",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-03-29 22:06:29 -0400",
+          "message": "Merge pull request #564 from necolas/fix/542",
+          "files": []
+        },
+        {
+          "hash": "375ff10793431738e80dab8063f66757598c91f8",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-03-26 12:58:26 -0400",
+          "message": "Restore `main` to package.json",
+          "files": []
+        },
+        {
+          "hash": "170455d6f6850d3b5eefdaab7b36c8c327ca8678",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-03-26 12:56:10 -0400",
+          "message": "Remove opinionated cursor styles on buttons",
+          "files": []
+        },
+        {
+          "hash": "e24c00352624bf4bbf3ee26652171e25b5299792",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-03-26 12:37:16 -0400",
+          "message": "Merge pull request #558 from XiBOR/master",
+          "files": []
+        },
+        {
+          "hash": "076c8ecb803dc3ef0d90f612a22dbe6e8acdf338",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-03-24 23:51:37 -0400",
+          "message": "Merge pull request #552 from battaglr/remove-v1-references",
+          "files": []
+        },
+        {
+          "hash": "1a3af2f91c860a407be0e0069548a7ceb873a527",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-03-24 08:56:09 -0400",
+          "message": "Merge pull request #561 from mdouglasbrett/patch-1",
+          "files": []
+        },
+        {
+          "hash": "e7d7693dc83be5567ae717705be5d45825196669",
+          "author": "mdouglasbrett@icloud.com",
+          "date": "2016-03-24 11:57:11 +0000",
+          "message": "Small copy change",
+          "files": []
+        },
+        {
+          "hash": "5ef046fbd0e3e274b4b89dbc61cd9d0485ad9461",
+          "author": "xbor@Romans-MacBook-Pro.local",
+          "date": "2016-03-24 00:57:32 +0300",
+          "message": "Combine two same selectors #553",
+          "files": []
+        },
+        {
+          "hash": "77f3463278b136c9ac45ef14771bc7aedb799dd5",
+          "author": "lucianobattagliero+git@gmail.com",
+          "date": "2016-03-21 05:03:50 -0300",
+          "message": "Remove `v1` references",
+          "files": []
+        },
+        {
+          "hash": "f84aad3434c63d0ac10b91c6f47e21d805bbd36f",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-03-19 18:48:38 -0400",
+          "message": "Merge pull request #541 from gouch/patch-1",
+          "files": []
+        },
+        {
+          "hash": "f9d9bb87d73df1938b7c66f2f1238daa12a88b78",
+          "author": "dgouch@gmail.com",
+          "date": "2016-03-19 18:36:50 -0400",
+          "message": "Fix spelling error in comment",
+          "files": []
+        },
+        {
+          "hash": "d311749e127ea3ea13eb900ad953270d62734f4f",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-03-19 17:21:27 -0400",
+          "message": "Merge pull request #539 from necolas/v4",
+          "files": []
+        },
+        {
+          "hash": "84f39fb494316857fec363f1c0b6accced316c3d",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-03-19 17:12:13 -0400",
+          "message": "4.0.0",
+          "files": []
+        },
+        {
+          "hash": "7f2eaef38d5a55c9a1707ae0f6fd1f050cf8fdcf",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-03-19 17:11:59 -0400",
+          "message": "Update documentation and tests",
+          "files": []
+        },
+        {
+          "hash": "0c90242399c09af53850d52e992c977a538a8424",
+          "author": "lucianobattagliero+git@gmail.com",
+          "date": "2016-03-19 17:01:16 -0400",
+          "message": "Update and organize the normalize.css file",
+          "files": []
+        },
+        {
+          "hash": "3123b8e9f5923fd06e4eeb9e0727b7cc42fd94f6",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-03-19 17:00:31 -0400",
+          "message": "Update project configuration",
+          "files": []
+        },
+        {
+          "hash": "aef06ef3f3263e7a6503693b9409a7210980aa22",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-03-18 22:55:44 -0400",
+          "message": "Merge pull request #538 from necolas/fix/313",
+          "files": []
+        },
+        {
+          "hash": "35673c5d99a6649a176c036813d4e75de68ced21",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-03-18 22:39:07 -0400",
+          "message": "Merge pull request #537 from necolas/fix/438",
+          "files": []
+        },
+        {
+          "hash": "10c24de1843be17748276cbc0dda59fa5807e0e8",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-03-18 22:33:35 -0400",
+          "message": "Merge pull request #536 from necolas/fix/100",
+          "files": []
+        },
+        {
+          "hash": "c7bef7960b7db184073a09e9da3120d1fa94f5bc",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-03-18 00:01:15 -0400",
+          "message": "Remove opinionated pre overflow",
+          "files": []
+        },
+        {
+          "hash": "28f2f6c292a628abc95358d9b19fae90029ddcd5",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-03-17 23:58:17 -0400",
+          "message": "Move input type appearance normalization into its own rule",
+          "files": []
+        },
+        {
+          "hash": "9a3b1b32f460cdac60d934aad59cf498bd515d6e",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-03-17 23:57:16 -0400",
+          "message": "Reduce selector weight of input types",
+          "files": []
+        },
+        {
+          "hash": "cbdd0b1683304ab9132e572dc0a53f927f56d833",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-03-17 21:33:55 -0400",
+          "message": "Correct wrapping not present in IE8/9/10/11 and Edge 12/13",
+          "files": []
+        },
+        {
+          "hash": "7b962ccf455242dbf0e8be99ebe81edf0d04fc48",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-03-17 11:10:54 -0400",
+          "message": "Merge pull request #535 from necolas/fix/img-border",
+          "files": []
+        },
+        {
+          "hash": "500092a1812b0f041e3823e1d716d30ad2440d72",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-03-17 10:55:40 -0400",
+          "message": "Only normalize border-style on img",
+          "files": []
+        },
+        {
+          "hash": "1f91390958ea53a922014349b45f1bccc7978433",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-03-17 10:44:21 -0400",
+          "message": "Merge pull request #532 from necolas/fix/522",
+          "files": []
+        },
+        {
+          "hash": "f19fc5bbe4732ac31e3ce0045c95f88135c27959",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-03-16 00:59:20 -0400",
+          "message": "Update the dfn support message",
+          "files": []
+        },
+        {
+          "hash": "cde926980acc4c081a7fbdf8f90f98703f418152",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-03-16 22:27:58 -0400",
+          "message": "Merge pull request #533 from necolas/fix/377",
+          "files": []
+        },
+        {
+          "hash": "53bd51a093c3e1385387a9bfe0028943da77ef9f",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-03-16 01:35:22 -0400",
+          "message": "Remove unnecessary input line-height",
+          "files": []
+        },
+        {
+          "hash": "d689630ff8da9c07f3dd4b16e46fb8542d696b37",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-03-15 18:34:52 -0400",
+          "message": "Merge pull request #531 from necolas/fix/363",
+          "files": []
+        },
+        {
+          "hash": "977827d56f4b1ec7d0750bc5fea426c2019c5cb9",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-03-15 17:57:06 -0400",
+          "message": "Use inherit to fix legend color",
+          "files": []
+        },
+        {
+          "hash": "c3da6c12267c8e43d57b5adc595a05a9206c52b8",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-03-15 17:20:19 -0400",
+          "message": "Merge pull request #530 from battaglr/use-longhand-outline",
+          "files": []
+        },
+        {
+          "hash": "f2e0d310c095146a3ca34fc6884f821055fb3d59",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-03-15 17:12:50 -0400",
+          "message": "Merge pull request #529 from battaglr/mark-opinionated-declarations",
+          "files": []
+        },
+        {
+          "hash": "0542f0423f0c04010d797ad11b7d4aa950438710",
+          "author": "lucianobattagliero+git@gmail.com",
+          "date": "2016-03-14 22:30:13 -0300",
+          "message": "Use explicit `outline-width` property instead of `outline`",
+          "files": []
+        },
+        {
+          "hash": "60cadb0921606a6f76d05f3507bf98c68bf35297",
+          "author": "lucianobattagliero+git@gmail.com",
+          "date": "2016-03-14 22:18:13 -0300",
+          "message": "Mark opinionated declarations",
+          "files": []
+        },
+        {
+          "hash": "9924969c5f4675891ab7baa85b922110abee9cd9",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-03-14 19:58:52 -0400",
+          "message": "Merge pull request #528 from battaglr/add-bower-install-details",
+          "files": []
+        },
+        {
+          "hash": "e6a0ce435db2ebcf3a3784ff1dae4bdb2c8b0b08",
+          "author": "lucianobattagliero+git@gmail.com",
+          "date": "2016-03-14 19:58:46 -0300",
+          "message": "Add Bower install details",
+          "files": []
+        },
+        {
+          "hash": "e66b004a430065ceeac25375a2be3337c870ce07",
+          "author": "lucianobattagliero+git@gmail.com",
+          "date": "2016-03-14 19:58:28 -0300",
+          "message": "Remove double space",
+          "files": []
+        },
+        {
+          "hash": "f41ef9b4918759dabc35599e014aaf3cfae3d8a1",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-02-15 15:24:30 -0500",
+          "message": "Merge pull request #515 from alrra/update-travis-yml",
+          "files": []
+        },
+        {
+          "hash": "128ecd8cc4224f782b4a64ea80e02dbb4d667348",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-02-15 15:11:53 -0500",
+          "message": "Merge pull request #514 from hudochenkov/audio-ios",
+          "files": []
+        },
+        {
+          "hash": "bc3dd58602c6968337b11ebd6a1dde044d43f974",
+          "author": "alrraa@gmail.com",
+          "date": "2016-02-09 12:27:29 +0200",
+          "message": "Remove `sudo: false` from `.travis.yml`",
+          "files": []
+        },
+        {
+          "hash": "6605185b049b209f11a10deb2d115ddeac1d244b",
+          "author": "aleks@hudochenkov.com",
+          "date": "2016-02-06 23:17:10 +0300",
+          "message": "Specify browsers for displaying `audio` without controls issue",
+          "files": []
+        },
+        {
+          "hash": "393c87ef6596e98200b3984993ab586f115a6466",
+          "author": "aleks@hudochenkov.com",
+          "date": "2016-02-06 00:27:19 +0300",
+          "message": "Add Travis CI for linting #508",
+          "files": []
+        },
+        {
+          "hash": "21e0c54ec01538e2e95f4974cc6638f315820f5a",
+          "author": "aleks@hudochenkov.com",
+          "date": "2016-02-06 00:18:41 +0300",
+          "message": "Use Stylelint as a gatekeeper #508",
+          "files": []
+        },
+        {
+          "hash": "b2f28355d87568db907e23a7357cc6279df743af",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-02-03 12:25:07 -0500",
+          "message": "Merge pull request #507 from alrra/update-browser-support-list",
+          "files": []
+        },
+        {
+          "hash": "4813e51b35247ec619700b5cd433eee6c99435d6",
+          "author": "alrraa@gmail.com",
+          "date": "2016-02-03 19:11:03 +0200",
+          "message": "Update `Browser support` section from `README.md`",
+          "files": []
+        },
+        {
+          "hash": "02c5c7adbbec1707900fde86068405735c733b42",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-02-03 12:00:11 -0500",
+          "message": "Remove opinionated table resets",
+          "files": []
+        },
+        {
+          "hash": "65e14b86144144bb5486eac5cbd613afd8f4b86f",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-02-03 11:59:20 -0500",
+          "message": "Update documentation and CHANGELOG.md",
+          "files": []
+        },
+        {
+          "hash": "6fe149b30140f61b6f19a4602650f874d64209ee",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-01-31 19:53:43 -0500",
+          "message": "Merge pull request #490 from lastfm/fix-firefox-button-focus-outline-take-two-481",
+          "files": []
+        },
+        {
+          "hash": "5daad010a2f19c12b89f317ba9d2c8e4573210d7",
+          "author": "uxfritz@163.com",
+          "date": "2015-11-07 19:20:52 +0800",
+          "message": "Add comment addressing intentional duplicated monospace font",
+          "files": []
+        },
+        {
+          "hash": "5304c784ffbd03da265fcbf7bf49f6964cbcfc9c",
+          "author": "kazssym@vx68k.org",
+          "date": "2015-08-16 10:24:32 +0900",
+          "message": "Address inconsistent styling of abbr[title]",
+          "files": []
+        },
+        {
+          "hash": "a3531ef27b26719dccfbec33890f2a067fdb830e",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-01-22 20:52:37 -0500",
+          "message": "Update CHANGELOG.md for color inheritence change",
+          "files": []
+        },
+        {
+          "hash": "feccd021878890f52eeaf03cc54fb04e2f24e4cf",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-01-22 19:47:54 -0500",
+          "message": "Merge pull request #502 from magnificode/disabled-element-color-inheritance",
+          "files": []
+        },
+        {
+          "hash": "faf5abcb3f397c1ae1e74d57283313adfb097918",
+          "author": "dominic.magnifico@10up.com",
+          "date": "2016-01-21 23:51:06 -0700",
+          "message": "Remove unnecessary color inheritance test now that it has been removed from form elements.",
+          "files": []
+        },
+        {
+          "hash": "b5ffb63df1956220d79d3a56d88d8b934d99febe",
+          "author": "dominic.magnifico@10up.com",
+          "date": "2016-01-21 23:50:18 -0700",
+          "message": "Remove color inheritance for button, input, optgroup, select and textarea elements. Color inheritance here causes possible usability issues when working on black backgrounds with white text. Addresses #349 and #339.",
+          "files": []
+        },
+        {
+          "hash": "5973b6a6e8ff03d23e0a178e4c59ba8a7989a26d",
+          "author": "dominic.magnifico@10up.com",
+          "date": "2016-01-21 21:59:13 -0700",
+          "message": "Ensure long-hand background declaration usage for consistency.",
+          "files": []
+        },
+        {
+          "hash": "46e3e0554c7b81fbfa5cfa1d1531e63f860bb741",
+          "author": "james.nowland@newism.com.au",
+          "date": "2014-12-01 15:56:54 +1100",
+          "message": "Normalize `hr` overflow",
+          "files": []
+        },
+        {
+          "hash": "bb55babbd1fc484861398692db06d62a495c8e7d",
+          "author": "radzkov@gmail.com",
+          "date": "2014-06-12 00:40:23 +0300",
+          "message": "Address inconsistent styling of b and strong",
+          "files": []
+        },
+        {
+          "hash": "fe567632afcf8afcf17925ab2a507ed87504cce8",
+          "author": "redux@splintered.co.uk",
+          "date": "2016-01-06 10:11:41 +0000",
+          "message": "Remove box-sizing for input[type=\"search\"]",
+          "files": []
+        },
+        {
+          "hash": "64de79a543546eaba548eed9d2be20986857a0e8",
+          "author": "lucianobattagliero+git@gmail.com",
+          "date": "2015-04-02 03:27:11 -0300",
+          "message": "Add link to contribution guidelines",
+          "files": []
+        },
+        {
+          "hash": "8cfa3e765e0cb55c174657e412430424a9fee97a",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2016-01-04 21:27:41 -0800",
+          "message": "Remove Bower and Component(1) files",
+          "files": []
+        },
+        {
+          "hash": "2f8e4748ac94c90e2f1814e5d582993e7a900a02",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2016-01-04 21:24:59 -0800",
+          "message": "Remove 'hgroup'",
+          "files": []
+        },
+        {
+          "hash": "72a77f0316ff55c9a68af22741ca37a1cccb09c4",
+          "author": "geobde@gmail.com",
+          "date": "2015-12-20 18:53:20 +0200",
+          "message": "Fix typo in README",
+          "files": []
+        },
+        {
+          "hash": "2789f8d0afd09355dad6abb0bea98aab0be13a4b",
+          "author": "thomash@last.fm",
+          "date": "2015-12-01 17:32:50 +0000",
+          "message": "Replace lost button and input focus style",
+          "files": []
+        },
+        {
+          "hash": "2bdda84272650aedfb45d8abe11a6d177933a803",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2015-03-30 17:26:52 -0700",
+          "message": "3.0.3",
+          "files": []
+        },
+        {
+          "hash": "c39a4c7163164511ddc59a4853e24d9a5252599b",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2015-03-30 14:35:20 -0700",
+          "message": "Force LICENCE to be published to npm",
+          "files": []
+        },
+        {
+          "hash": "c78ecbb59e6a27042ec03b01a6577698976d88bf",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2015-03-30 14:14:59 -0700",
+          "message": "Remove unnecessary vendor prefixes",
+          "files": []
+        },
+        {
+          "hash": "ef2b006aad2d08e3f2a0f184093d01d9eb04bcb3",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2015-03-30 14:14:46 -0700",
+          "message": "Fix a few CSS comments",
+          "files": []
+        },
+        {
+          "hash": "0c31dada5189a577f16fc61cbd8680e7f35bcca3",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2015-03-17 11:52:17 -0700",
+          "message": "Fix project URL in normalize.css file",
+          "files": []
+        },
+        {
+          "hash": "1d11c9bc5323fca60f8fc9924376df7dc4893fb4",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2015-03-17 11:48:59 -0700",
+          "message": "Add cdnjs link to README",
+          "files": []
+        },
+        {
+          "hash": "947b1ae124cc987848262b6513242c83348a733d",
+          "author": "root@srn.io",
+          "date": "2014-11-13 16:29:21 +0100",
+          "message": "Add main property to 'package.json'",
+          "files": []
+        },
+        {
+          "hash": "d83132802e8bc10ece0c0afbe88fce83674ec252",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2014-10-04 12:39:33 -0700",
+          "message": "3.0.2",
+          "files": []
+        },
+        {
+          "hash": "bb82bc9b87445865415c525495b7c8b39e85e998",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2014-10-04 12:39:18 -0700",
+          "message": "Add 'menu' to tests",
+          "files": []
+        },
+        {
+          "hash": "a473cee8a2ab09e7590e9fcc130834d6248350a6",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2014-10-04 12:29:57 -0700",
+          "message": "Fix code style",
+          "files": []
+        },
+        {
+          "hash": "3a62048dae16c711a1db7350be2414913b598da3",
+          "author": "m@moox.io",
+          "date": "2014-05-30 16:58:58 +0200",
+          "message": "Only alter 'background-color' of links in IE 10",
+          "files": []
+        },
+        {
+          "hash": "5962c8982997bd164f57b28464065437509de426",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2014-10-04 11:38:31 -0700",
+          "message": "Add `menu` element to HTML5 display definitions",
+          "files": []
+        },
+        {
+          "hash": "ff1cdc2a864f8cc1abc26d78e846ef0a6a63b123",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2014-10-04 11:21:56 -0700",
+          "message": "Fix package.json",
+          "files": []
+        },
+        {
+          "hash": "dd8d75c3491e5ce12dcd92f1b9c74cdd8b901766",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2014-07-22 10:56:31 -0700",
+          "message": "Add extended docs to README",
+          "files": []
+        },
+        {
+          "hash": "071af828a2f6c882d5de1536135bf13b5711f554",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2014-03-26 21:49:40 -0700",
+          "message": "3.0.1",
+          "files": []
+        },
+        {
+          "hash": "de39c2c76e72545f4af376f0b9f492ed3d868158",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2014-03-26 21:46:07 -0700",
+          "message": "Fix indentation",
+          "files": []
+        },
+        {
+          "hash": "bb3a1304a08adf88fb8ac2361269ea47a97691b0",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2014-02-17 12:17:55 -0800",
+          "message": "More accurate comments",
+          "files": []
+        },
+        {
+          "hash": "058ee3b0adf88c4cdd3c9c6b4604d643f39f6075",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2014-02-16 20:08:25 -0800",
+          "message": "Add package.json",
+          "files": []
+        },
+        {
+          "hash": "6ec1a10b5d67b5c8085223aa62a5f63989d8adbc",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2014-01-28 09:57:23 -0800",
+          "message": "v3.0.0",
+          "files": []
+        },
+        {
+          "hash": "f3db654b78ddfa84c4d33d8427126eb7bd745ca0",
+          "author": "mathias@qiwi.be",
+          "date": "2014-01-27 17:09:24 +0100",
+          "message": "Fix \u2018san-serif\u2019 typo in test file",
+          "files": []
+        },
+        {
+          "hash": "3d8f336d171354d615967b5ade85773aad83330f",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2014-01-26 10:18:43 -0800",
+          "message": "Fix `textarea` test title",
+          "files": []
+        },
+        {
+          "hash": "7f1e59a9df84ce92e8db31fa822f859573a628bb",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2014-01-25 21:14:26 -0800",
+          "message": "v3.0.0-rc.1",
+          "files": []
+        },
+        {
+          "hash": "488f365fdd04fb9b2c9e85718952a698cb2e6e84",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2014-01-25 21:06:09 -0800",
+          "message": "Update CHANGELOG",
+          "files": []
+        },
+        {
+          "hash": "d00c1c98ae09f760ee8f9a72a61d92dae88cdc30",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2014-01-25 20:53:05 -0800",
+          "message": "Update browser support",
+          "files": []
+        },
+        {
+          "hash": "5b57298fc3ed1be2cafc7c02aef83a7f07bb1a5e",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2014-01-25 20:39:18 -0800",
+          "message": "Explicit tests for each normalization",
+          "files": []
+        },
+        {
+          "hash": "3fe0df0fe511a914bee47c6e11b1832a5a6830ff",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2014-01-25 20:37:46 -0800",
+          "message": "Reorganise normalize.css and edit comments",
+          "files": []
+        },
+        {
+          "hash": "a2ae3b5d7a49b67da03ff9b0878c2d2a53fbc821",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2014-01-25 16:50:27 -0800",
+          "message": "Revert 6992935807a5ed7ec60fb97e3f9fd02cc102a110",
+          "files": []
+        },
+        {
+          "hash": "7e80851c5fd2d49772235e2d453c9e1caaeb2bc5",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2014-01-24 23:09:36 -0800",
+          "message": "Fix i18n for `q` element",
+          "files": []
+        },
+        {
+          "hash": "a8edd0c5aa06b905e8e1550fd6a5c01e46375194",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2014-01-24 22:04:39 -0800",
+          "message": "Fix `pre` text formatting and overflow",
+          "files": []
+        },
+        {
+          "hash": "37ea6ae1874dce2ecd4aa3a5b0edc89f7da29337",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2014-01-24 21:59:28 -0800",
+          "message": "Fix vertical alignment of `progress`",
+          "files": []
+        },
+        {
+          "hash": "45cc401523c73a7ea48d433a269a7164059a4812",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2014-01-24 13:23:52 -0800",
+          "message": "Change indentation: 4 -> 2 spaces",
+          "files": []
+        },
+        {
+          "hash": "68322db312c1c8eb9fd1e9d2571c7728ea9c4cbe",
+          "author": "jatruadmin@gmail.com",
+          "date": "2014-01-24 13:16:11 -0800",
+          "message": "Address `button` overflow in IE 8/9/10",
+          "files": []
+        },
+        {
+          "hash": "e372fcd83d2de2f08ce6755660c36da7954fdb4d",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2014-01-24 13:15:41 -0800",
+          "message": "Fix rendering of test file on mobile",
+          "files": []
+        },
+        {
+          "hash": "20e58223c9f07607289063c649a7e0e569ec7f97",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2014-01-24 13:03:24 -0800",
+          "message": "Revert `textarea` alignment modification",
+          "files": []
+        },
+        {
+          "hash": "d86aa8500ee7e8c6568413ccfc115fe437010727",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2014-01-24 12:59:12 -0800",
+          "message": "Fix number input button cursor on OS X Chrome",
+          "files": []
+        },
+        {
+          "hash": "4b94eb7d4d290251d43684a087d0564ef4eb3685",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2014-01-15 21:32:00 -0800",
+          "message": "Remove `a:focus` outline normalization",
+          "files": []
+        },
+        {
+          "hash": "ccbb28b123186a419abd8f8211f7431885943fd9",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2014-01-15 16:52:18 -0800",
+          "message": "Fix `figure` margin normalization",
+          "files": []
+        },
+        {
+          "hash": "5b9bf5e1a365509141bb26669cc6cd45ed2cda1e",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2014-01-15 16:45:04 -0800",
+          "message": "Fix `optgroup` normalization and add test",
+          "files": []
+        },
+        {
+          "hash": "3d3096db745224192292584445b5114bf1af8a71",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2014-01-15 16:30:33 -0800",
+          "message": "Normalize `optgroup`",
+          "files": []
+        },
+        {
+          "hash": "37d1c1ef8ba2ddd5708bfc93083cda964711e6aa",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2014-01-15 16:16:32 -0800",
+          "message": "Remove default table cell padding",
+          "files": []
+        },
+        {
+          "hash": "496702aab6a80bdb1d03f3011a0c0962635a8b02",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2014-01-15 14:40:36 -0800",
+          "message": "Set correct display for `progress` in IE 8/9",
+          "files": []
+        },
+        {
+          "hash": "0b5badd591e63b1dcc914a2479f681b9297e6514",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2014-01-15 14:21:28 -0800",
+          "message": "Fix `font` and `color` inheritance for forms",
+          "files": []
+        },
+        {
+          "hash": "6992935807a5ed7ec60fb97e3f9fd02cc102a110",
+          "author": "thomas.hoppe@n-fuse.de",
+          "date": "2014-01-12 12:56:12 +0100",
+          "message": "Fix fieldset width in Chrome and Firefox",
+          "files": []
+        },
+        {
+          "hash": "dafaf9ee60ff76173954aca755c78a6912a0ee6c",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2013-08-26 11:37:18 -0700",
+          "message": "v2.1.3",
+          "files": []
+        },
+        {
+          "hash": "4925d9b50807c784abac0f73290e60a28322376b",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2013-08-26 11:36:05 -0700",
+          "message": "Update CHANGELOG",
+          "files": []
+        },
+        {
+          "hash": "690f8abb195fcdb4b4f910f3e7f23b88bdffb01d",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2013-08-26 11:34:21 -0700",
+          "message": "Fix component.json",
+          "files": []
+        },
+        {
+          "hash": "5d4ef1c56fe6e29399f8e2bf31f39ed6c6a11bd3",
+          "author": "kalifriki@gmail.com",
+          "date": "2013-04-15 20:47:25 +0400",
+          "message": "Add IE 10 to checkbox/radio normalization comments",
+          "files": []
+        },
+        {
+          "hash": "9709e680d02c58c9265173e71fbf2be3e2e8e1ff",
+          "author": "git@rdela.com",
+          "date": "2013-08-05 10:04:57 -0700",
+          "message": "Fix incorrect closing tag in `test.html`",
+          "files": []
+        },
+        {
+          "hash": "3e12409c6111299b32bb64584f7a5f9a4dd5a86a",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2013-08-15 21:52:25 -0700",
+          "message": "Add Component(1) install instructions",
+          "files": []
+        },
+        {
+          "hash": "0050384c0b108ed5e7066da5ff52f54ef88e1f66",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2013-08-15 19:46:33 -0700",
+          "message": "README: change guidance and demphasise v1",
+          "files": []
+        },
+        {
+          "hash": "77982e20d82421b4303a5eee4afa224ea371e978",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2013-07-01 23:54:45 -0700",
+          "message": "Normalize the `template` element display",
+          "files": []
+        },
+        {
+          "hash": "37b483c1e1f0a11f3734c86410d051a31378a512",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2013-07-01 23:42:37 -0700",
+          "message": "Fix IE 10 active link background color",
+          "files": []
+        },
+        {
+          "hash": "56af2b11703dd9e8819ae725ee67192a4b55a48c",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2013-05-11 13:59:52 -0700",
+          "message": "v2.1.2",
+          "files": []
+        },
+        {
+          "hash": "f74e43083330faa9d6b8b223a8b60f12d32d8da2",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2013-05-11 13:51:45 -0700",
+          "message": "Add `bower.json` to release instructions",
+          "files": []
+        },
+        {
+          "hash": "71d6cdc9a85ac70da6d3208e397fcb5b1c0ad960",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2013-05-07 23:40:22 -0700",
+          "message": "Revert root color and background normalization",
+          "files": []
+        },
+        {
+          "hash": "87db01937460a16964d7f1a6c675624c5107448b",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2013-05-07 23:36:17 -0700",
+          "message": "Simplify the Component(1) manifest file",
+          "files": []
+        },
+        {
+          "hash": "c9ff1dd48d822ea1092cba42f82755c71ca31c61",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2013-05-07 23:33:22 -0700",
+          "message": "Add Bower manifest file",
+          "files": []
+        },
+        {
+          "hash": "03c8f449d039c0fa3560bf03e1b4b3de4c5c26b1",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2013-04-21 20:17:09 -0700",
+          "message": "Change the Bower website URL",
+          "files": []
+        },
+        {
+          "hash": "a611f096b53faa508cce66ad172c4a6625e626f9",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2013-04-07 19:41:16 -0700",
+          "message": "Correct date of 2.1.1 release in CHANGELOG",
+          "files": []
+        },
+        {
+          "hash": "920b3ea72ba296d723377eabce59148398aa3e8c",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2013-04-07 18:34:38 -0700",
+          "message": "Fix typo in CONTRIBUTING.md",
+          "files": []
+        },
+        {
+          "hash": "691c71b98518b09a8c83412168a27653c302ef75",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2013-04-07 17:27:53 -0700",
+          "message": "v2.1.1",
+          "files": []
+        },
+        {
+          "hash": "34614f481141498630edd1f79008da75357fa6d0",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2013-04-07 17:26:43 -0700",
+          "message": "Fix example `git tag` command in docs",
+          "files": []
+        },
+        {
+          "hash": "8afd9f818bc9f4987e71e239489828b5c713932c",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2013-03-28 20:30:19 -0700",
+          "message": "Add contribution guidelines",
+          "files": []
+        },
+        {
+          "hash": "6ccf86e9625b321bd78b92fe8c12422435bed078",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2013-04-05 12:51:36 -0700",
+          "message": "Change gh-page URLs to use `.io`",
+          "files": []
+        },
+        {
+          "hash": "4451c29dec940833acd476d09c3749f696561701",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2013-04-03 14:13:17 -0400",
+          "message": "Fix typo",
+          "files": []
+        },
+        {
+          "hash": "907890983eb2d6667e4b9cbd8bd03ead4b077e34",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2013-04-01 06:53:47 -0700",
+          "message": "Protect root against system color schemes",
+          "files": []
+        },
+        {
+          "hash": "8a925e039178a3531c88ac747894b6fe0992318a",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2013-03-29 21:30:45 -0700",
+          "message": "Clean up component.json",
+          "files": []
+        },
+        {
+          "hash": "40f39d8d9e3a237e25f20d1ea9537af130895b3e",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2013-03-27 15:53:30 -0700",
+          "message": "Add Bower install and more to README",
+          "files": []
+        },
+        {
+          "hash": "341199ff56bfa3b0a252bd3fbc96b39213a17e34",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2013-01-20 17:35:12 -0800",
+          "message": "v2.1.0",
+          "files": []
+        },
+        {
+          "hash": "5c0d44e002a84d1944ce8b9d0aa30e0b860a09c2",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2013-01-20 17:34:29 -0800",
+          "message": "Update README acknowledgements",
+          "files": []
+        },
+        {
+          "hash": "8d5137931facfaea3c98df439143387af279a4f1",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2013-01-20 17:21:16 -0800",
+          "message": "Update CHANGELOG",
+          "files": []
+        },
+        {
+          "hash": "7bc787fe8660465cdecd902f15cd5538341e1301",
+          "author": "tj.vantoll@gmail.com",
+          "date": "2013-01-20 17:09:32 -0800",
+          "message": "Normalize form element `text-transform`",
+          "files": []
+        },
+        {
+          "hash": "fc85cfb9f16200b4fa048b73c34e295dc77487d1",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2013-01-20 10:01:17 -0800",
+          "message": "Normalize `h1` margin",
+          "files": []
+        },
+        {
+          "hash": "6729f5e8f5973c3b31a7a7baab5fdb7860aa623d",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2013-01-20 09:47:45 -0800",
+          "message": "Update CHANGELOG",
+          "files": []
+        },
+        {
+          "hash": "fdb11ae5b5e63431d6f8bd2496a11c08e9de46c5",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2013-01-20 09:23:49 -0800",
+          "message": "Normalize `hr`",
+          "files": []
+        },
+        {
+          "hash": "36fa71d531a299dd81dd17b5abbb1b5c71a7bb95",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2013-01-20 09:23:23 -0800",
+          "message": "Add `hr` test",
+          "files": []
+        },
+        {
+          "hash": "28f15186663e3b9cf95b78b2f6e6dd8ad5ec34c1",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2013-01-19 13:04:00 -0800",
+          "message": "Remove unnecessary `pre` styles",
+          "files": []
+        },
+        {
+          "hash": "63acb0bf1de0928203685a4b89960dfce841f98a",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2013-01-14 20:55:41 -0800",
+          "message": "Update CHANGELOG",
+          "files": []
+        },
+        {
+          "hash": "2eb80024f66dd5745cba5dcef5c9b0c466ecb8d5",
+          "author": "d.kruczek@gmail.com",
+          "date": "2013-01-14 20:48:50 -0800",
+          "message": "Add `main` element to HTML5 display definitions",
+          "files": []
+        },
+        {
+          "hash": "5399ff9c0e6d60b4a96c1e388755137de52690b4",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2012-12-01 17:34:14 -0800",
+          "message": "Fix cursor style for disabled button `input`",
+          "files": []
+        },
+        {
+          "hash": "70c34af15bdeeec3bdf8f3a8fc8912080f38fb3c",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2012-11-26 09:27:11 -0800",
+          "message": "Language and comment style",
+          "files": []
+        },
+        {
+          "hash": "f29e03ae8f4485dbf959c9db09e88fa5bdbeaf86",
+          "author": "tj@vision-media.ca",
+          "date": "2012-09-27 17:35:25 -0700",
+          "message": "Update component.json for 'component' support",
+          "files": []
+        },
+        {
+          "hash": "994782f372dda6044d2a85d48f1f1ee5f48c0e11",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2012-08-20 10:50:37 +0100",
+          "message": "v2.0.1",
+          "files": []
+        },
+        {
+          "hash": "dcc17fd21ab53f5e268ec1fda1037fab6bc61886",
+          "author": "calvein@gmail.com",
+          "date": "2012-08-20 12:40:16 +0300",
+          "message": "Remove stray IE 6/7 hack",
+          "files": []
+        },
+        {
+          "hash": "494d32bd1d8a830b1ad5cf267c9e92bcd6c456df",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2012-08-19 20:37:31 +0100",
+          "message": "v2.0.0",
+          "files": []
+        },
+        {
+          "hash": "7e014980b9155c8ef77b6d08c2ac352382a095b5",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2012-08-16 22:34:39 +0100",
+          "message": "Drop legacy browser support",
+          "files": []
+        },
+        {
+          "hash": "9d729698e6fd91d2eb044259465692b96332acbe",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2012-08-19 19:46:51 +0100",
+          "message": "v1.0.1",
+          "files": []
+        },
+        {
+          "hash": "0cdbf7c713b2a51db9510d412750db04d9a7fa1b",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2012-08-19 19:32:47 +0100",
+          "message": "Adjust `small` font size normalization",
+          "files": []
+        },
+        {
+          "hash": "138536c843c1cee9f8dc1f80cc985c21acd0b24d",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2012-08-19 19:16:33 +0100",
+          "message": "Minor change to test file",
+          "files": []
+        },
+        {
+          "hash": "701c73be55386643423af180ad88acea1a9e7fac",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2012-08-16 22:22:48 +0100",
+          "message": "Add component.json",
+          "files": []
+        },
+        {
+          "hash": "9f5837a95a33ab7e3b34b7ebc91a7d20623ae9cc",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2012-08-16 22:04:16 +0100",
+          "message": "Add CHANGELOG",
+          "files": []
+        },
+        {
+          "hash": "207a39780ccbe09158a02f9687ad1b7cb874637b",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2012-08-14 23:43:47 +0100",
+          "message": "v1.0.0",
+          "files": []
+        },
+        {
+          "hash": "f52da7461fc69c97f2417239bc6c8fdef58090e4",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2012-08-14 23:35:20 +0100",
+          "message": "Update CSS comment wording",
+          "files": []
+        },
+        {
+          "hash": "4ed3786354f4a15884a3a391ab9a9cd681529ed0",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2012-08-14 23:32:24 +0100",
+          "message": "Rename demo.html to test.html",
+          "files": []
+        },
+        {
+          "hash": "ddf924369df366802ceef1ef750a721618a8cf82",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2012-08-14 23:30:47 +0100",
+          "message": "Rename LICENSE to LICENSE.md",
+          "files": []
+        },
+        {
+          "hash": "31f72b55beef89e08c27521211bcac2724c56237",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2012-08-07 22:27:32 +0100",
+          "message": "Add MIT License",
+          "files": []
+        },
+        {
+          "hash": "b7579700ead7f94ddb07687e0ec8fbf8efc4ad93",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2012-07-08 23:43:00 +0100",
+          "message": "Minor copy and comment adjustments",
+          "files": []
+        },
+        {
+          "hash": "6de1f055d654643dd074e3c166f7ec5089c7d2e6",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2012-07-07 11:29:23 +0100",
+          "message": "Remove .gitignore",
+          "files": []
+        },
+        {
+          "hash": "93beaa2e949ccdacf6ff00aaceca541b815e1f14",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2012-07-07 10:49:39 +0100",
+          "message": "Minor consistency adjustments",
+          "files": []
+        },
+        {
+          "hash": "79b3d21b697e94675d748cd9d42409b83318d2b5",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2012-07-07 09:58:40 +0100",
+          "message": "Reintroduce fix for WebKit audio/video control bug",
+          "files": []
+        },
+        {
+          "hash": "03575299fc8cba752a51fece7c35343085d6ed09",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2012-04-10 23:59:06 +0100",
+          "message": "Update README with link to 'contribute' wiki",
+          "files": []
+        },
+        {
+          "hash": "99b187d1a20c8548e6a6e876f75a28c6e24bff2d",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2012-03-11 12:55:55 +0000",
+          "message": "Revert addition of input placeholder rules",
+          "files": []
+        },
+        {
+          "hash": "567af2e7d68d2bebb6428748190fd7dc5e6a4e51",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2012-03-09 22:11:47 +0000",
+          "message": "Fix indentation and update timestamp",
+          "files": []
+        },
+        {
+          "hash": "2691e7ab14682dc8f9e942456887df0e35804087",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2012-03-09 13:30:17 -0800",
+          "message": "Addresses placeholder text remaining visible on focus in Chrome",
+          "files": []
+        },
+        {
+          "hash": "79e2c16ba5157c46ea4a129dd99420ac2f85f3f0",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2012-03-09 19:41:02 +0000",
+          "message": "Correct code format and update timestamp",
+          "files": []
+        },
+        {
+          "hash": "f9572a461a6a3baf7f151c095ab23babc4937a39",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2012-03-09 11:31:51 -0800",
+          "message": "Add placeholder color normalization",
+          "files": []
+        },
+        {
+          "hash": "49392e9df27b7036609f56861679e8cf9c0ea264",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2012-03-09 09:03:54 -0800",
+          "message": "Add placeholder color normalization",
+          "files": []
+        },
+        {
+          "hash": "664a7a760e85a66f49f38c28a28681962afc69a5",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2012-03-06 10:21:57 +0000",
+          "message": "Remove height from `audio:not([controls])` in iOS5",
+          "files": []
+        },
+        {
+          "hash": "5e5496c026a0211ac2fdfd62cb59e25455dced55",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2012-02-07 12:37:29 +0000",
+          "message": "Add `summary` to the block-level display rule for HTML5 elements",
+          "files": []
+        },
+        {
+          "hash": "cb176831b9adb32036e83087f286c0ae6c0eae74",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2012-02-07 10:22:40 +0000",
+          "message": "Remove `hr` and separate some margin normalizations",
+          "files": []
+        },
+        {
+          "hash": "f1a096a4986c2ab74b4a8352697a099551866b08",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2012-02-06 21:03:59 -0800",
+          "message": "Normalize typography",
+          "files": []
+        },
+        {
+          "hash": "e65602a3b977fc4de8fbd5a9010b09023a09ef30",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2012-02-07 01:55:13 +0000",
+          "message": "Manual merge with GitHub master branch",
+          "files": []
+        },
+        {
+          "hash": "6fc41118f727ef8a047640faefce9f64e4dbe9e6",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2012-02-07 01:46:34 +0000",
+          "message": "Remove `details` from the rule applying padding-left to lists.",
+          "files": []
+        },
+        {
+          "hash": "18406231ccc915d26dd0707a754b9e6cde5abe5a",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2012-02-07 01:41:43 +0000",
+          "message": "Add interactive content tests to demo.html",
+          "files": []
+        },
+        {
+          "hash": "e469f757fd9ce9b9970e65bab66d941f64e32939",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2012-02-06 17:29:54 -0800",
+          "message": "Update CSS comments",
+          "files": []
+        },
+        {
+          "hash": "450aa56a20ea3be33a1960311df1fbf85e33fd6f",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2012-02-06 17:15:46 -0800",
+          "message": "Normalize lists",
+          "files": []
+        },
+        {
+          "hash": "0f1f244aecbc8549809fd64e2f99b3bae47e0efc",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2012-01-31 16:07:05 +0000",
+          "message": "Update CSS comments",
+          "files": []
+        },
+        {
+          "hash": "1dea394cbffd697c97c6c924a0a2fc57ddc8731c",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2012-01-31 15:37:34 +0000",
+          "message": "Normalize headings",
+          "files": []
+        },
+        {
+          "hash": "2326dcb082f9bf615ecdb6f1e0f8101a0a070cf5",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2012-01-31 13:30:40 +0000",
+          "message": "Demo: add disabled input test and other minor updates.",
+          "files": []
+        },
+        {
+          "hash": "fe15b8f862d7477b37298aab88c1fc61c4d38808",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2012-01-31 13:28:24 +0000",
+          "message": "Re-set cursor to default for disabled `input` and `button`.",
+          "files": []
+        },
+        {
+          "hash": "f9133044985e7672b789784ed2d372cb1f6972c5",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2012-01-22 23:31:15 +0000",
+          "message": "Combine the two WebKit search input pseudo-element rules",
+          "files": []
+        },
+        {
+          "hash": "a336a75dd29e3c1cd2756fc2c8373d860e2b5225",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2012-01-22 23:00:38 +0000",
+          "message": "Move font-family normalization from `body` to `html`. Close #62",
+          "files": []
+        },
+        {
+          "hash": "6ef5b9e78a0eb13b7799fa7e0ad284d065f84e7f",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2012-01-22 22:44:53 +0000",
+          "message": "Remove scrollbar normalization. Fix #64 #65",
+          "files": []
+        },
+        {
+          "hash": "efd8220019a5cb25b94a959a7faf9c08bafeb827",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2012-01-17 16:33:39 +0000",
+          "message": "Remove search cancel button from search inputs on Mac OS X.",
+          "files": []
+        },
+        {
+          "hash": "23c6fe17d21c32899d60dd159b86611662dec7db",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2012-01-17 15:42:10 +0000",
+          "message": "Add small improvements to `legend` normalization.",
+          "files": []
+        },
+        {
+          "hash": "31eb8b611e1de369a61b44e135ea2474711479a5",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2012-01-17 14:17:35 +0000",
+          "message": "Remove excess padding from checkbox and radio inputs in IE7. Close #42",
+          "files": []
+        },
+        {
+          "hash": "3404fcb8b966373340e9428d21cccb0b4801d7c0",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-11-04 15:38:33 +0000",
+          "message": "Normalize only the left margin of lists. Fix #49",
+          "files": []
+        },
+        {
+          "hash": "77e9ef4952524368b15cb1fae426abe562a111d7",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-11-04 15:32:31 +0000",
+          "message": "Minor comment cleanup.",
+          "files": []
+        },
+        {
+          "hash": "e9e28741f4032be46063c5afa62ad2efc8d8f911",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-11-04 15:27:41 +0000",
+          "message": "Normalize h1 font-size. Close #41",
+          "files": []
+        },
+        {
+          "hash": "4288d2b7cf49f826e5662cbcc02edbea51621875",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-11-04 15:23:00 +0000",
+          "message": "Clearing heading tests added to the demo",
+          "files": []
+        },
+        {
+          "hash": "26f9a3f065e312727f272417b2be258a69ca3914",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-10-25 00:07:03 +0100",
+          "message": "Remove default `a` and `a:visited` color normalizations.",
+          "files": []
+        },
+        {
+          "hash": "6d085d7e520572ca4a8c73fe09a44362792e30d0",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-09-22 18:31:16 +0100",
+          "message": "Prevent text inputs growing as you type in IE6/7. Fix #46",
+          "files": []
+        },
+        {
+          "hash": "5e64a2c5cbba6dfd2ff61a5c50b99201fd5e2203",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-09-14 11:37:24 +0100",
+          "message": "Edit README to say normalize should be used as an alternative to resets. Close #39",
+          "files": []
+        },
+        {
+          "hash": "4d81be63832501608fe8ae27cfdefef3f67664de",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-09-14 11:27:24 +0100",
+          "message": "Remove temporary Chrome pre-13 fix for audio/video control styling bug.",
+          "files": []
+        },
+        {
+          "hash": "3be9da44bc566f4db8dd50b9b9fd6efb395d65a9",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-09-14 11:13:13 +0100",
+          "message": "Normalize fieldset border. Fix #34",
+          "files": []
+        },
+        {
+          "hash": "f3de91ac5181db6711d33c0c737a4fbd223d822f",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-08-31 23:03:02 +0100",
+          "message": "Update comment for img border normalization to include reference to Firefox 3",
+          "files": []
+        },
+        {
+          "hash": "54aa1506bcc0be2d3bd5e179238c052f1fdb6110",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-08-30 11:31:57 +0100",
+          "message": "Demo HTML: Whitespace cleanup. Validation cleanup (remove strike element, valid input values, SVG shape.) Close #32",
+          "files": []
+        },
+        {
+          "hash": "aec13957659fae98f3de509a07408a98e930960a",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-08-12 18:34:20 +0100",
+          "message": "Add additional abbr and dfn tests to the demo",
+          "files": []
+        },
+        {
+          "hash": "fefbe796f1f72f087aa98b8f28cc8a1d94a564b8",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-08-12 18:29:43 +0100",
+          "message": "Remove excess padding from radio and checkbox in IE8/9. Fix #27",
+          "files": []
+        },
+        {
+          "hash": "2bc78e7272599148a03da4e357475d2a56f51822",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-08-11 17:44:14 +0100",
+          "message": "Link to a YUI Compressor-based minification tool in README. Close #4",
+          "files": []
+        },
+        {
+          "hash": "013d72407e47978fe6ddad7a77a24b3935fb0ade",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-08-11 10:27:57 +0100",
+          "message": "Update monospace font stack fix to work in Safari 4",
+          "files": []
+        },
+        {
+          "hash": "743ee8bc7b4c981c852cb1e4e8bd9658b8d801ce",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-08-10 01:57:03 +0100",
+          "message": "Correct inaccurate description of [hidden] rule",
+          "files": []
+        },
+        {
+          "hash": "09be23f8320602edd343e55bbaf4ebc02550b1cc",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-08-03 10:41:31 +0100",
+          "message": "Leave default webkit-tap-highlight-color in place. Fix #23",
+          "files": []
+        },
+        {
+          "hash": "775989f4c700ee9ddae77e644b71f92aa81c1b55",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-08-03 10:39:34 +0100",
+          "message": "Separate [hidden] and audio:not([controls]) to prevent entire rule being dropped in IE8",
+          "files": []
+        },
+        {
+          "hash": "0bb4cfa7420825c4213a69875877957251818091",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-07-31 11:35:06 +0100",
+          "message": "Simplify hiding of hidden and audio without controls. Work around IE6/7 list-style bug with nav, fix #25",
+          "files": []
+        },
+        {
+          "hash": "45a73553465767a7d11dd90f397a3434effe1c27",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-07-20 20:53:52 +0100",
+          "message": "Add a test for the [hidden] attribute",
+          "files": []
+        },
+        {
+          "hash": "b3796b42b5c8dedce2e35b4b769fe1e3b8c72f3d",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-07-20 20:35:55 +0100",
+          "message": "Add [hidden] attribute normalization",
+          "files": []
+        },
+        {
+          "hash": "8ae3231cdbc86476b36050547a341ebcbc3cce4b",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-07-20 20:06:47 +0100",
+          "message": "Prevent IE6 from ignoring the embedded media ruleset. Fix #10",
+          "files": []
+        },
+        {
+          "hash": "9576d48fc234c5224b1fc4dccba2f5965243843d",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-07-12 12:52:07 +0200",
+          "message": "Set {overflow:auto} in IE6/7 for <button> and <input> inside <table>. Fix #18",
+          "files": []
+        },
+        {
+          "hash": "1d174f10130ea03a7f6647a45538942b778dccdd",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-07-12 12:44:40 +0200",
+          "message": "Fix #20 (only temporary until Chrome updates to version 13)",
+          "files": []
+        },
+        {
+          "hash": "86f6d2a9f22e32a31731a5c8a9f675e8a5cc16d6",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-07-12 12:22:54 +0200",
+          "message": "Merge branch 'master' of github.com:necolas/normalize.css",
+          "files": []
+        },
+        {
+          "hash": "db80311682c9471de5a90af346528cfad6acd225",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-07-12 12:22:38 +0200",
+          "message": "Add <audio> and <video> tests to demo. Fix #21",
+          "files": []
+        },
+        {
+          "hash": "7372f5025064ec2617a04daea16393da30d359bd",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-06-27 12:09:33 -0700",
+          "message": "Very minor copy typo fix and `zoom` property change.",
+          "files": []
+        },
+        {
+          "hash": "8cece826593d0219d53f9e666d9f4f95368fdc3a",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-06-21 18:33:36 +0100",
+          "message": "Add IE9 correction for SVG overflow, fix #16. Update demo to include explicit <img> and <svg> tests.",
+          "files": []
+        },
+        {
+          "hash": "7f8442aa01c596c9c798d16fc69d353913a65719",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-06-21 02:18:46 +0100",
+          "message": "Add timestamp and repo link. Close #7",
+          "files": []
+        },
+        {
+          "hash": "9e9faec50767f2066e5e1d56995896cfb691d7d9",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-06-21 02:06:55 +0100",
+          "message": "Update README with more details and link to demo",
+          "files": []
+        },
+        {
+          "hash": "82e1797ed2867cd3fc9bb1e9d78013de8600a206",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-06-20 18:23:16 +0100",
+          "message": "Reintroduce <audio>, <canvas>, <video> display setting",
+          "files": []
+        },
+        {
+          "hash": "f892df74b12bc3480783ced73e589689f43e2230",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-06-20 17:48:00 +0100",
+          "message": "Improve accuracy of <img> style comments",
+          "files": []
+        },
+        {
+          "hash": "bac7c314a806bd5cef50333f61f0b064356a080f",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-06-20 17:28:21 +0100",
+          "message": "Add fix for legend not inheriting color in IE6/7/8/9",
+          "files": []
+        },
+        {
+          "hash": "79c278fa9658f95540b2dd795ddf4cfc62201c36",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-06-20 17:16:58 +0100",
+          "message": "Remove unnecessary styles for <td> and <th>. All browsers apply same default styles.",
+          "files": []
+        },
+        {
+          "hash": "b7216e5daa8ab86ffdc148c5ce5c3d8e00a853cf",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-06-20 16:58:53 +0100",
+          "message": "Update README with link to demo and license info",
+          "files": []
+        },
+        {
+          "hash": "e6afa1ffbcdabd90f9108b20d30919769e015a24",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-06-20 16:56:04 +0100",
+          "message": "Make comments less verbose",
+          "files": []
+        },
+        {
+          "hash": "a974ee71f94d8bdce8cc2d982bad152d3bf38bfd",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-06-20 16:54:25 +0100",
+          "message": "Minor tidy up of <pre><code> HTML example",
+          "files": []
+        },
+        {
+          "hash": "07eece8e1d3a69b551c3467f0106b95ab0dbc6fa",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-06-18 23:27:13 +0100",
+          "message": "Update .gitignore",
+          "files": []
+        },
+        {
+          "hash": "fc842fc634a1d3600ce91db058ddd75f64782a23",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-06-14 17:44:21 +0100",
+          "message": "Remove <audio>, <video>, <canvas> display set to inline-block. Default display is inline. Fix #10",
+          "files": []
+        },
+        {
+          "hash": "77519357af5681a069af4469d08ffa1e4bb26e9d",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-06-14 17:40:13 +0100",
+          "message": "Add .gitignore file",
+          "files": []
+        },
+        {
+          "hash": "b9471ae17dd6cce10587295cf6b59b2be75477e3",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-06-10 16:32:55 -0700",
+          "message": "Merge pull request #14 from AustinWi/patch-1",
+          "files": []
+        },
+        {
+          "hash": "db6ee260e335e1923efd6acfcedad42629402cdf",
+          "author": "greenrockz@gmail.com",
+          "date": "2011-06-10 16:15:28 -0700",
+          "message": "Removed <tags> so they wouldn't conflict with procssor.com You can see the exact issue here http://img832.imageshack.us/img832/7329/tagnormalissues.png",
+          "files": []
+        },
+        {
+          "hash": "0b20e4923f52ff1c1cf9e2cbdbb506f68d270c01",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-06-01 19:22:38 +0100",
+          "message": "Correct meta viewport to use initial-scale",
+          "files": []
+        },
+        {
+          "hash": "ba047db386411c356ff610c348019e7c2a86d637",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-06-01 09:11:59 -0700",
+          "message": "Move font-size:100% into html ruleset, fix #5. Remove placeholder body line-height.",
+          "files": []
+        },
+        {
+          "hash": "ce0c3469e040b4d88663b03d1325cc274e35d4c9",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-05-31 23:06:06 +0100",
+          "message": "Minor changes to properties and values that could be shortened. Improve comment language and change section-comment format (via Jonathan Neal).",
+          "files": []
+        },
+        {
+          "hash": "4bf81bb8246c3c63b8397ce980262fca5e2ff503",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-05-31 20:44:55 +0100",
+          "message": "Minor change to <pre> etc font-family. Set {display:inline-block} only for audio[controls].",
+          "files": []
+        },
+        {
+          "hash": "410b484a54d7341b302c258108188767c20825c7",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-05-31 08:42:29 -0700",
+          "message": "Include link to Procssor for those who want a different CSS formatting style",
+          "files": []
+        },
+        {
+          "hash": "94bf35d61c795cc6148a3324b1255ed959be020d",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-05-31 06:46:59 -0700",
+          "message": "Remove input[type=\"search\"] WebKit decoration from Safari and Chrome in OSX, corrects excess inner padding. Fix #3",
+          "files": []
+        },
+        {
+          "hash": "ae8afed13baa912e7beeda2c320fd73a883dd26e",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-05-31 05:33:24 -0700",
+          "message": "Make tap-highlight-color fix work for Android devices. Fix #2",
+          "files": []
+        },
+        {
+          "hash": "c71f67d42a57691483267db17743e751b65f8c84",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-05-31 01:50:19 -0700",
+          "message": "Minor change to outline value (none to 0)",
+          "files": []
+        },
+        {
+          "hash": "0c08646b9d86dfe9737fb9c8be9236e2cb2cb02d",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-05-31 01:35:05 -0700",
+          "message": "Typo correction",
+          "files": []
+        },
+        {
+          "hash": "7b3b5e48be2ed75f9c42177587ef6e11a63e209a",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-05-27 02:39:36 +0100",
+          "message": "Minor copy changes to CSS comments",
+          "files": []
+        },
+        {
+          "hash": "64ac7d0c1d7febead0e0d5a4f1819024235d3be2",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-05-27 02:04:35 +0100",
+          "message": "Minor formatting correction",
+          "files": []
+        },
+        {
+          "hash": "91d958cef94da074bcec105713c7b2b3518ea9f3",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-05-27 01:52:19 +0100",
+          "message": "Switch a:active and a:hover order",
+          "files": []
+        },
+        {
+          "hash": "a5a0686ed9e001acca2cc8cb3f3f127db59e917c",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-05-26 14:25:14 +0100",
+          "message": "Demo: modify form element tests to include both input-inside-label and input-outisde-label markup options. Include examples of form parts wrapped in <p> alongside examples wrapped in <div>. Add tel and file <input> types.",
+          "files": []
+        },
+        {
+          "hash": "c8aafe34e697807fcf30b12b35f6de2144ca07dc",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-05-26 14:14:18 +0100",
+          "message": "Add {vertical-align:middle} to form elements in IE6/7 - fixes their incorrect label-input alignment when using baseline. Reorder the form element rulesets",
+          "files": []
+        },
+        {
+          "hash": "953a5f522e11bda9a510a7d701c2cda97d4fad0c",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-05-26 00:52:35 +0100",
+          "message": "Minor format change to README",
+          "files": []
+        },
+        {
+          "hash": "fba85c2781a2a2763c3382990ff9655a684b2e24",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-05-26 00:44:28 +0100",
+          "message": "Update README; remove normalize.metrics.css",
+          "files": []
+        },
+        {
+          "hash": "696c274bcd56c930db114054643cf570b4bfec57",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-05-26 00:19:31 +0100",
+          "message": "Demo: Add box-sizing tests; add more HTML5 <input> type examples; add <figure> example; reorganise elements",
+          "files": []
+        },
+        {
+          "hash": "28f8e9b4d315691cba752ce77e1c329a2a5161a3",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-05-26 00:14:54 +0100",
+          "message": "Minor edit to monospace font fix",
+          "files": []
+        },
+        {
+          "hash": "df279d89b45399d942c3b35ab119fe579ae06520",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-05-25 23:31:24 +0100",
+          "message": "Normalize <figure> margins",
+          "files": []
+        },
+        {
+          "hash": "1be44f3b2a79af5d463c7ea0264fee0e6fa464ca",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-05-25 22:54:43 +0100",
+          "message": "Add -webkit-appearance:button to clickable input types, fixes inability to style them in iOS. Remove input[type=image] as it already receives a pointer cursor and should not receive button appearance",
+          "files": []
+        },
+        {
+          "hash": "ab0304e248d85915ad76d0270d95e813ee153ac4",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-05-23 09:14:27 -0700",
+          "message": "Include http: in path to HTML5 Shim. Remove inputs with 'required' and 'pattern' attributes: not relevant to this demo.",
+          "files": []
+        },
+        {
+          "hash": "8061c67cf7f9b4b68c182dc6a4dce28393df5f40",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-05-23 08:04:33 -0700",
+          "message": "Correct the box sizing declarations required to improve cross-browser consistency of specific input types",
+          "files": []
+        },
+        {
+          "hash": "6546f401e4571a84fe5b49deb98c20ce79b643ca",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-05-23 05:51:09 -0700",
+          "message": "Remove [vertical-align:top] from [pre, code, kbd, samp]. Was meant to be for iOS but causes issues.",
+          "files": []
+        },
+        {
+          "hash": "db6c8ecd8bd85a0e6065433411c3006cea34506d",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-05-17 09:44:21 -0700",
+          "message": "Change dummy href value",
+          "files": []
+        },
+        {
+          "hash": "7c32ea1bf295c82c7e86a7c61cc1d10b895447b5",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-05-17 09:37:35 -0700",
+          "message": "Remove link to normalize.metrics.css - move away from 'black boxing' the 'normalizing' styles.",
+          "files": []
+        },
+        {
+          "hash": "a27246fcabe7a5b57e08341aac36b81c287cac71",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-05-17 09:27:55 -0700",
+          "message": "Add table element normalization. Add default font-size and line-height to <body>. Set font-family on <body> and form elements to improve consistency. Set font-size:100% on form elements so they inherit body's font-size.",
+          "files": []
+        },
+        {
+          "hash": "4cf8cf3e6e40a738e23161d08bfcac70b00ba555",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-05-17 08:51:24 -0700",
+          "message": "Add blockquote and list normalization (previously in normalize.metrics.css)",
+          "files": []
+        },
+        {
+          "hash": "11d60fe7ba81ebb83367077adfa01ebec9dc85b8",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-05-17 04:46:20 -0700",
+          "message": "Add normalization of <form> and <fieldset> elements. Add input[type='reset'] to box sizing normalization. Add cursor:pointer for clickable inputs/buttons.",
+          "files": []
+        },
+        {
+          "hash": "56d63dfe7a1bdcbb4992fbf66a1ab74f89b44936",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-05-17 04:02:54 -0700",
+          "message": "Normalize <a> colors. Remove <small> line-height (no effect when not block-level). Reorganise file and edit comments.",
+          "files": []
+        },
+        {
+          "hash": "25d2e3e421f013ddca0f1a2002c2cd4c8a05df79",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-05-17 03:00:06 -0700",
+          "message": "Edit demo file; addition of <form> elements, <mark>, <blockquote>, and clearer inline element tests.",
+          "files": []
+        },
+        {
+          "hash": "4fdeb702f19aef7b6891106285ba8ff9fddc801a",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-05-17 02:47:28 -0700",
+          "message": "Add line-height:normal to <input> and <button> elements to match Firefox 3/4 value (set with !important in the UA stylesheet)",
+          "files": []
+        },
+        {
+          "hash": "b8f2b7b34e9f160bfc49720f5ea5da1cd7bf8ef0",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-05-17 02:39:30 -0700",
+          "message": "Add vertical-align:baseline to form elements",
+          "files": []
+        },
+        {
+          "hash": "f28538a363d3f9052dc54a3bce1fba81ece4afa4",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-05-14 11:01:47 +0100",
+          "message": "Add bold font-weight to <b> and <strong>. Add font-size to <pre> <code> <kbd> <samp> (was missing). Introduce more links to further reading.",
+          "files": []
+        },
+        {
+          "hash": "9652da94c771d6c3cb7571897221f85d8e2ca92d",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-05-14 10:34:35 +0100",
+          "message": "Style HTML5 embedded elements. Remove default cursor from <html>. Reformat comments",
+          "files": []
+        },
+        {
+          "hash": "0af84884f524c0df8cdd867523052ead9d653231",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-05-06 23:59:32 +0100",
+          "message": "Set text-size-adjust to 100%",
+          "files": []
+        },
+        {
+          "hash": "78553162350a41d56b4c3ff1fd7a4222e2d531c7",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-05-06 23:16:26 +0100",
+          "message": "Remove remnants of IE <audio> hack",
+          "files": []
+        },
+        {
+          "hash": "08fc3b3d9cb850155c401ae74797f2739ce869ce",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-05-06 21:54:19 +0100",
+          "message": "Change vertical-align for inline-block elements to baseline. Set textarea vertical-align to top.",
+          "files": []
+        },
+        {
+          "hash": "be21f763ee86c7041f35e3beba8567573fdee9fd",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-05-06 06:19:47 -0700",
+          "message": "Fix text-size-adjust so it doesn't prevent manual zooming in WebKit or iOS",
+          "files": []
+        },
+        {
+          "hash": "d23156d4e43ab0e4f69f53dd9b673e329a410be2",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-05-06 06:07:39 -0700",
+          "message": "Remove CSS expressions targeting IE6. Performance issue.",
+          "files": []
+        },
+        {
+          "hash": "e58552dbc097384e0f5e88813892fb424492425a",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-05-05 20:49:19 +0100",
+          "message": "Align textarea with text-top. Improves readability and fixes FF3/4 odd 'baseline' alignment",
+          "files": []
+        },
+        {
+          "hash": "9f821f06e3dc8b6c42141f6026759a1a749c55ae",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-05-05 20:41:20 +0100",
+          "message": "Add vertical-align:baseline to form elements",
+          "files": []
+        },
+        {
+          "hash": "6ed1d6f7e53bc294383b6aecd90bb4c6f3710c98",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-05-05 20:33:49 +0100",
+          "message": "Remove overflow:hidden from body, cuts off content of fixed-width elements",
+          "files": []
+        },
+        {
+          "hash": "cce41fedd32017576d42c90da771a46c797332bc",
+          "author": "nicolasgallagher@gmail.com",
+          "date": "2011-05-05 20:32:39 +0100",
+          "message": "Set vertical-align:baseline for sub and sup",
+          "files": []
+        },
+        {
+          "hash": "341f0af212f4ba4592ea3d2699719b9a688c0fd2",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2011-05-05 12:05:28 -0700",
+          "message": "Improved <sup> <sub> alignment",
+          "files": []
+        },
+        {
+          "hash": "10009af09e8c51c67438f5169ee803c3185ad00b",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2011-05-04 10:08:39 -0700",
+          "message": "Update headings",
+          "files": []
+        },
+        {
+          "hash": "7514427a0d41b7c7a073b37b3332adc48a9018a8",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2011-05-03 16:10:28 -0700",
+          "message": "Vendor-prefixed properties precede their standard counterparts",
+          "files": []
+        },
+        {
+          "hash": "e3f2352235f31addd1f6f60c98832d903d9a299e",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2011-05-03 14:54:59 -0700",
+          "message": "Formatting",
+          "files": []
+        },
+        {
+          "hash": "86fc462da1f21c9cc02c615741e377bffd4f9544",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2011-05-03 14:49:29 -0700",
+          "message": "iOS text resizing",
+          "files": []
+        },
+        {
+          "hash": "2fddc3c5733b35461084ecda5a6a45efccbf65a7",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2011-05-03 14:44:55 -0700",
+          "message": "Proper line-height assignment",
+          "files": []
+        },
+        {
+          "hash": "86bae9a4f81645d36fe83494725fa130b11a5ce5",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2011-05-03 14:37:38 -0700",
+          "message": "Updated README.md",
+          "files": []
+        },
+        {
+          "hash": "2c8c7aaba80429d8b251ed0983cb306dd4e792a1",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2011-05-03 14:34:55 -0700",
+          "message": "Updated demo.html",
+          "files": []
+        },
+        {
+          "hash": "57fd8879f5cfe32ade0235b50ad451fe8c0dcbf1",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2011-05-03 14:34:30 -0700",
+          "message": "Normalize and personalized sizing and spacing",
+          "files": []
+        },
+        {
+          "hash": "4f1ba2796321bbb8ed38aa80ad5cfc6c613d4178",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2011-05-03 14:17:32 -0700",
+          "message": "Improved display inline block Improved <audio> display Added <input> <select> <textarea> box sizing",
+          "files": []
+        },
+        {
+          "hash": "15f071eb438174857b449739b13587aaee365362",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2011-04-29 09:49:05 -0700",
+          "message": "Update",
+          "files": []
+        },
+        {
+          "hash": "6671403e3ba83cf721795cdc888b7bcda85e374b",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2011-04-28 17:12:49 -0700",
+          "message": "Update: <body>",
+          "files": []
+        },
+        {
+          "hash": "4dc9bb470a59302abb65b3829d4f18bc2008e07d",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2011-04-28 16:29:04 -0700",
+          "message": "Update",
+          "files": []
+        },
+        {
+          "hash": "fa92fc78e43e1a17bcd5811cb828481000d192c1",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2011-04-28 09:58:42 -0700",
+          "message": "Update",
+          "files": []
+        },
+        {
+          "hash": "efe40441aae8529aa9411fa62c00b07ee0418576",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2011-04-28 09:57:14 -0700",
+          "message": "Update",
+          "files": []
+        },
+        {
+          "hash": "7942a2198deb44c944a1058025517e6d9001db0b",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2011-04-28 09:41:00 -0700",
+          "message": "Update",
+          "files": []
+        },
+        {
+          "hash": "a9aa6b7a05c973acb377bde462235f2d081f8ce0",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2011-04-27 22:56:02 -0700",
+          "message": "First README.md",
+          "files": []
+        },
+        {
+          "hash": "ef12292cc21dbd720b711ccf55a594d9dcb0fc18",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2011-04-27 18:18:20 -0700",
+          "message": "Update",
+          "files": []
+        },
+        {
+          "hash": "b9ad7aea10819c766aec31268db7eea9ad7487c5",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2011-04-22 13:34:18 -0700",
+          "message": "Notes",
+          "files": []
+        },
+        {
+          "hash": "60cc15c3868e54309e2c5516a918d0b1c750e014",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2011-04-21 09:59:02 -0700",
+          "message": "Language",
+          "files": []
+        },
+        {
+          "hash": "354859e740250a009152d2977202ef2119778044",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2011-04-21 09:54:43 -0700",
+          "message": "Language",
+          "files": []
+        },
+        {
+          "hash": "ee50234bcc0a5ab2c1cfb1ad174cac8720c9c93c",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2011-04-21 09:46:05 -0700",
+          "message": "Language",
+          "files": []
+        },
+        {
+          "hash": "3ce871adc20623e1849a419e8981b4a4da23316d",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2011-04-21 09:44:07 -0700",
+          "message": "Language update",
+          "files": []
+        },
+        {
+          "hash": "d8335d302adef6fe2632925167c358ef1c7c6145",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2011-04-21 09:32:16 -0700",
+          "message": "Initial",
+          "files": []
+        },
+        {
+          "hash": "0434c40f4dd704cf4c5df1825905e2276495db72",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2011-04-21 09:26:51 -0700",
+          "message": "It has begun.",
+          "files": []
+        }
+      ],
+      "suspicious_commits": [],
+      "author_patterns": {
+        "total_authors": 42,
+        "author_frequency": {
+          "nicolasgallagher@gmail.com": 208,
+          "thasmo@gmail.com": 1,
+          "hola@isma.uy": 1,
+          "andrey.chechkin@me.com": 1,
+          "anton@sotkov.com": 1,
+          "yochem@icloud.com": 1,
+          "rellect@gmail.com": 1,
+          "talknmime@gmail.com": 1,
+          "gardnerjohng@gmail.com": 2,
+          "pere.jobs@gmail.com": 1,
+          "jonathantneal@hotmail.com": 95,
+          "github@mattbrundage.com": 2,
+          "virtually.johnalbin@gmail.com": 1,
+          "zlatanvasovic@gmail.com": 1,
+          "lucianobattagliero+git@gmail.com": 10,
+          "jmenichelli@gmail.com": 1,
+          "slavanga@users.noreply.github.com": 1,
+          "aleks@hudochenkov.com": 4,
+          "mdouglasbrett@icloud.com": 1,
+          "xbor@Romans-MacBook-Pro.local": 1,
+          "dgouch@gmail.com": 1,
+          "alrraa@gmail.com": 2,
+          "uxfritz@163.com": 1,
+          "kazssym@vx68k.org": 1,
+          "dominic.magnifico@10up.com": 3,
+          "james.nowland@newism.com.au": 1,
+          "radzkov@gmail.com": 1,
+          "redux@splintered.co.uk": 1,
+          "geobde@gmail.com": 1,
+          "thomash@last.fm": 1,
+          "root@srn.io": 1,
+          "m@moox.io": 1,
+          "mathias@qiwi.be": 1,
+          "jatruadmin@gmail.com": 1,
+          "thomas.hoppe@n-fuse.de": 1,
+          "kalifriki@gmail.com": 1,
+          "git@rdela.com": 1,
+          "tj.vantoll@gmail.com": 1,
+          "d.kruczek@gmail.com": 1,
+          "tj@vision-media.ca": 1,
+          "calvein@gmail.com": 1,
+          "greenrockz@gmail.com": 1
+        },
+        "email_domains": {
+          "gmail.com": 238,
+          "isma.uy": 1,
+          "me.com": 1,
+          "sotkov.com": 1,
+          "icloud.com": 2,
+          "hotmail.com": 95,
+          "mattbrundage.com": 2,
+          "users.noreply.github.com": 1,
+          "hudochenkov.com": 4,
+          "Romans-MacBook-Pro.local": 1,
+          "163.com": 1,
+          "vx68k.org": 1,
+          "10up.com": 3,
+          "newism.com.au": 1,
+          "splintered.co.uk": 1,
+          "last.fm": 1,
+          "srn.io": 1,
+          "moox.io": 1,
+          "qiwi.be": 1,
+          "n-fuse.de": 1,
+          "rdela.com": 1,
+          "vision-media.ca": 1
+        },
+        "suspicious_authors": []
+      },
+      "timing_patterns": {
+        "date_range": "2011-04-21 to 2018-11-04",
+        "total_days": 144,
+        "same_day_commits": [
+          "2018-02-08",
+          "2016-03-19",
+          "2016-03-17",
+          "2014-01-25",
+          "2014-01-24",
+          "2014-01-15",
+          "2013-01-20",
+          "2011-06-20",
+          "2011-05-31",
+          "2011-05-26",
+          "2011-05-17",
+          "2011-05-03",
+          "2011-04-21"
+        ],
+        "unusual_hours": [
+          0
+        ],
+        "date_frequency": {
+          "2018-11-04": 2,
+          "2018-02-15": 1,
+          "2018-02-11": 1,
+          "2018-02-08": 7,
+          "2017-10-19": 1,
+          "2017-09-06": 1,
+          "2017-08-13": 1,
+          "2017-05-02": 3,
+          "2017-05-01": 3,
+          "2017-04-11": 1,
+          "2017-03-28": 1,
+          "2017-03-26": 5,
+          "2017-03-27": 1,
+          "2016-11-18": 1,
+          "2016-10-04": 1,
+          "2016-10-03": 2,
+          "2016-09-13": 1,
+          "2016-08-21": 1,
+          "2016-08-08": 1,
+          "2016-07-06": 4,
+          "2016-06-30": 5,
+          "2016-06-25": 2,
+          "2016-06-16": 1,
+          "2016-04-18": 1,
+          "2016-04-12": 2,
+          "2016-04-11": 3,
+          "2016-04-10": 4,
+          "2016-04-07": 1,
+          "2016-04-06": 1,
+          "2016-03-29": 2,
+          "2016-03-26": 3,
+          "2016-03-24": 4,
+          "2016-03-21": 1,
+          "2016-03-19": 7,
+          "2016-03-18": 4,
+          "2016-03-17": 6,
+          "2016-03-16": 3,
+          "2016-03-15": 4,
+          "2016-03-14": 5,
+          "2016-02-15": 2,
+          "2016-02-09": 1,
+          "2016-02-06": 3,
+          "2016-02-03": 4,
+          "2016-01-31": 1,
+          "2015-11-07": 1,
+          "2015-08-16": 1,
+          "2016-01-22": 2,
+          "2016-01-21": 3,
+          "2014-12-01": 1,
+          "2014-06-12": 1,
+          "2016-01-06": 1,
+          "2015-04-02": 1,
+          "2016-01-04": 2,
+          "2015-12-20": 1,
+          "2015-12-01": 1,
+          "2015-03-30": 4,
+          "2015-03-17": 2,
+          "2014-11-13": 1,
+          "2014-10-04": 5,
+          "2014-05-30": 1,
+          "2014-07-22": 1,
+          "2014-03-26": 2,
+          "2014-02-17": 1,
+          "2014-02-16": 1,
+          "2014-01-28": 1,
+          "2014-01-27": 1,
+          "2014-01-26": 1,
+          "2014-01-25": 6,
+          "2014-01-24": 8,
+          "2014-01-15": 7,
+          "2014-01-12": 1,
+          "2013-08-26": 3,
+          "2013-04-15": 1,
+          "2013-08-05": 1,
+          "2013-08-15": 2,
+          "2013-07-01": 2,
+          "2013-05-11": 2,
+          "2013-05-07": 3,
+          "2013-04-21": 1,
+          "2013-04-07": 4,
+          "2013-03-28": 1,
+          "2013-04-05": 1,
+          "2013-04-03": 1,
+          "2013-04-01": 1,
+          "2013-03-29": 1,
+          "2013-03-27": 1,
+          "2013-01-20": 8,
+          "2013-01-19": 1,
+          "2013-01-14": 2,
+          "2012-12-01": 1,
+          "2012-11-26": 1,
+          "2012-09-27": 1,
+          "2012-08-20": 2,
+          "2012-08-19": 4,
+          "2012-08-16": 3,
+          "2012-08-14": 4,
+          "2012-08-07": 1,
+          "2012-07-08": 1,
+          "2012-07-07": 3,
+          "2012-04-10": 1,
+          "2012-03-11": 1,
+          "2012-03-09": 5,
+          "2012-03-06": 1,
+          "2012-02-07": 5,
+          "2012-02-06": 3,
+          "2012-01-31": 4,
+          "2012-01-22": 3,
+          "2012-01-17": 3,
+          "2011-11-04": 4,
+          "2011-10-25": 1,
+          "2011-09-22": 1,
+          "2011-09-14": 3,
+          "2011-08-31": 1,
+          "2011-08-30": 1,
+          "2011-08-12": 2,
+          "2011-08-11": 2,
+          "2011-08-10": 1,
+          "2011-08-03": 2,
+          "2011-07-31": 1,
+          "2011-07-20": 3,
+          "2011-07-12": 4,
+          "2011-06-27": 1,
+          "2011-06-21": 3,
+          "2011-06-20": 7,
+          "2011-06-18": 1,
+          "2011-06-14": 2,
+          "2011-06-10": 2,
+          "2011-06-01": 2,
+          "2011-05-31": 7,
+          "2011-05-27": 3,
+          "2011-05-26": 6,
+          "2011-05-25": 2,
+          "2011-05-23": 3,
+          "2011-05-17": 9,
+          "2011-05-14": 2,
+          "2011-05-06": 5,
+          "2011-05-05": 5,
+          "2011-05-04": 1,
+          "2011-05-03": 8,
+          "2011-04-29": 1,
+          "2011-04-28": 5,
+          "2011-04-27": 2,
+          "2011-04-22": 1,
+          "2011-04-21": 6
+        },
+        "hour_frequency": {
+          "0": 360
+        }
+      },
+      "message_patterns": {
+        "total_messages": 360,
+        "suspicious_messages": [
+          {
+            "message": "Render the main element correctly in IE",
+            "pattern": "end",
+            "risk": "HIGH"
+          },
+          {
+            "message": "More explicitly define font resets on form controls (#607)",
+            "pattern": "control",
+            "risk": "HIGH"
+          },
+          {
+            "message": "Correct wrapping not present in IE8/9/10/11 and Edge 12/13",
+            "pattern": "ping",
+            "risk": "HIGH"
+          },
+          {
+            "message": "Use inherit to fix legend color",
+            "pattern": "end",
+            "risk": "HIGH"
+          },
+          {
+            "message": "Specify browsers for displaying `audio` without controls issue",
+            "pattern": "control",
+            "risk": "HIGH"
+          },
+          {
+            "message": "Remove unnecessary vendor prefixes",
+            "pattern": "end",
+            "risk": "HIGH"
+          },
+          {
+            "message": "Add extended docs to README",
+            "pattern": "end",
+            "risk": "HIGH"
+          },
+          {
+            "message": "Fix rendering of test file on mobile",
+            "pattern": "end",
+            "risk": "HIGH"
+          },
+          {
+            "message": "Fix example `git tag` command in docs",
+            "pattern": "command",
+            "risk": "HIGH"
+          },
+          {
+            "message": "Reintroduce fix for WebKit audio/video control bug",
+            "pattern": "control",
+            "risk": "HIGH"
+          },
+          {
+            "message": "Remove height from `audio:not([controls])` in iOS5",
+            "pattern": "control",
+            "risk": "HIGH"
+          },
+          {
+            "message": "Add small improvements to `legend` normalization.",
+            "pattern": "end",
+            "risk": "HIGH"
+          },
+          {
+            "message": "Remove temporary Chrome pre-13 fix for audio/video control styling bug.",
+            "pattern": "control",
+            "risk": "HIGH"
+          },
+          {
+            "message": "Separate [hidden] and audio:not([controls]) to prevent entire rule being dropped in IE8",
+            "pattern": "control",
+            "risk": "HIGH"
+          },
+          {
+            "message": "Simplify hiding of hidden and audio without controls. Work around IE6/7 list-style bug with nav, fix #25",
+            "pattern": "control",
+            "risk": "HIGH"
+          },
+          {
+            "message": "Add fix for legend not inheriting color in IE6/7/8/9",
+            "pattern": "end",
+            "risk": "HIGH"
+          },
+          {
+            "message": "Minor change to <pre> etc font-family. Set {display:inline-block} only for audio[controls].",
+            "pattern": "control",
+            "risk": "HIGH"
+          },
+          {
+            "message": "Vendor-prefixed properties precede their standard counterparts",
+            "pattern": "end",
+            "risk": "HIGH"
+          }
+        ],
+        "message_length_stats": {
+          "avg_length": 42.41111111111111,
+          "max_length": 221,
+          "min_length": 5
+        }
+      },
+      "file_patterns": {
+        "total_files_changed": 0,
+        "unique_files": 0,
+        "file_frequency": {},
+        "suspicious_files": []
+      },
+      "attack_indicators": {
+        "asterisk_commits": [],
+        "coordinate_commits": [],
+        "timing_anomalies": [],
+        "author_anomalies": [],
+        "message_anomalies": []
+      }
+    },
+    "sanitize.css": {
+      "name": "sanitize.css",
+      "path": "sanitize-css-upstream",
+      "total_commits": 218,
+      "commits": [
+        {
+          "hash": "61c85b6961f684d0124093d97475073bb08f557e",
+          "author": "11521496+romainmenke@users.noreply.github.com",
+          "date": "2024-09-11 09:48:21 +0200",
+          "message": "Create SECURITY.md",
+          "files": []
+        },
+        {
+          "hash": "092d0d85922bfa72d28e9e8d25d80a5437c8df44",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2021-09-15 06:58:33 -0400",
+          "message": "Cleanup CHANGELOG.md",
+          "files": []
+        },
+        {
+          "hash": "d42d89e4ff6693368f2cfa991f623ca53475ef62",
+          "author": "tobias.buschor@shwups.ch",
+          "date": "2021-09-15 02:09:33 +0200",
+          "message": "1px td-padding also in Chromium and Safari (#224)",
+          "files": []
+        },
+        {
+          "hash": "678ccd2fe3c92b47dc81537502825dce15702ed6",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2021-09-14 18:13:15 -0400",
+          "message": "Remove `cursor: pointer` from `[aria-controls]`",
+          "files": []
+        },
+        {
+          "hash": "5e2d9c22cdeb9a61bb5a1b62e54ad34cfd389c15",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2021-09-14 18:10:55 -0400",
+          "message": "table border-color currentColor (#223)",
+          "files": []
+        },
+        {
+          "hash": "3046797a2e7a339cd0e29574f9745b71fdcfe7fd",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2021-09-14 18:09:01 -0400",
+          "message": "Reset select appearance in Safari (#222)",
+          "files": []
+        },
+        {
+          "hash": "8013fc4aa6b054f9482f63c2d65ad319112a939b",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2021-09-14 18:07:32 -0400",
+          "message": "Remove the padding on table cells in Firefox (#221)",
+          "files": []
+        },
+        {
+          "hash": "1618751165d284ec7d5f5d1b4e9a975ebc8b5f88",
+          "author": "3374183+sanmai-NL@users.noreply.github.com",
+          "date": "2021-09-14 20:41:40 +0200",
+          "message": "Add `text-size-adjust` (#220)",
+          "files": []
+        },
+        {
+          "hash": "38cd03c7cedb7b510da3f3c4caa5bdd87536dada",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2021-09-14 09:55:46 -0400",
+          "message": "13.0.0",
+          "files": []
+        },
+        {
+          "hash": "b8692b738ba29d82acb4f1c16a669b6c755898b5",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2021-09-14 09:50:48 -0400",
+          "message": "Reflect newer practices",
+          "files": []
+        },
+        {
+          "hash": "6ce9e1af27699daa4ec66ab6bbc3786c413aaa39",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2021-09-14 09:41:17 -0400",
+          "message": "Remove unnecessary prefers-color-scheme page styles",
+          "files": []
+        },
+        {
+          "hash": "eef0b7e563d4254f3779ce2dc072df651555609b",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2021-09-14 09:40:57 -0400",
+          "message": "Rename font styles",
+          "files": []
+        },
+        {
+          "hash": "3f6f7ed91c942f84923d122823500b8a6811c479",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2021-09-14 09:40:47 -0400",
+          "message": "Remove unnecessary evergreen variations",
+          "files": []
+        },
+        {
+          "hash": "79c51b10f9917627b53639610b1a537fe428d1c2",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2021-09-14 09:28:57 -0400",
+          "message": "Remove opinionated block size stretch on body",
+          "files": []
+        },
+        {
+          "hash": "776bd4d72654ddb54aa5071b2cd10bb1957f7f97",
+          "author": "yuhei.yasuda1003@gmail.com",
+          "date": "2021-05-23 01:06:14 +0900",
+          "message": "fix typo in the comment",
+          "files": []
+        },
+        {
+          "hash": "9bbf845ad6c5f5e5471ed078c73029c2e0bce1c7",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2021-05-22 02:14:58 -0400",
+          "message": "Fill the viewport block in all browsers (opinionated)",
+          "files": []
+        },
+        {
+          "hash": "97537649c8e5d53d98c8e4a6234a0917f824acf2",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2021-05-22 02:14:18 -0400",
+          "message": "align sanitize.css and evergreen.css",
+          "files": []
+        },
+        {
+          "hash": "7cf51168ff3fcf8c94a871cd34a0e3305820f007",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2021-05-22 01:55:32 -0400",
+          "message": "Remove unnecessary fix for focus outlines in Firefox",
+          "files": []
+        },
+        {
+          "hash": "8aee099e72a4e2f71ae2d19e12a094a35c12c164",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2021-05-22 01:42:53 -0400",
+          "message": "Prevent zero-width space from consuming space in Safari",
+          "files": []
+        },
+        {
+          "hash": "d89f15436db0bc4b01bf0a1ad6fee5bddcc283cd",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2021-05-22 01:29:29 -0400",
+          "message": "add support for system-ui, ui-monospace",
+          "files": []
+        },
+        {
+          "hash": "5b6f18025c94593ebc65a854aa1c691ef6753e91",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2021-05-22 01:24:49 -0400",
+          "message": "use :where, drop fixed issues, drop 3+ back fixes, update readme",
+          "files": []
+        },
+        {
+          "hash": "a777485630eb54539cc578a195f731fa1d7e9ebc",
+          "author": "5815445+goodpixels@users.noreply.github.com",
+          "date": "2021-05-22 04:12:34 +0100",
+          "message": "Removing overly specific selector for select input type (#207)",
+          "files": []
+        },
+        {
+          "hash": "3d1c1fff5cc31ea35401e8fd15af383891529bf7",
+          "author": "14101189+loteoo@users.noreply.github.com",
+          "date": "2021-05-21 23:11:18 -0400",
+          "message": "Add video tag to assets.css (#205)",
+          "files": []
+        },
+        {
+          "hash": "91bb885387e1fb9901707d98bc1a1e6f1d367e00",
+          "author": "6202772+katiehartrick@users.noreply.github.com",
+          "date": "2021-03-10 22:14:19 +0800",
+          "message": "add background-repeat: no repeat (#208)",
+          "files": []
+        },
+        {
+          "hash": "0d2d781758ab9cd36c6138bedaa26b0aae30bfc3",
+          "author": "gabrielcangussu@gmail.com",
+          "date": "2020-09-01 11:41:29 -0300",
+          "message": "Fix reduce motion sub heading in README (#202)",
+          "files": []
+        },
+        {
+          "hash": "e7ef7dca97144c7dbb55b23bedc8cbab522a37a7",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2020-08-20 04:14:08 -0400",
+          "message": "12.0.1",
+          "files": []
+        },
+        {
+          "hash": "3aeafd1e03b9e0a8ce1e5565c773ef735dfa7b75",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2020-08-20 04:06:26 -0400",
+          "message": "12.0.0",
+          "files": []
+        },
+        {
+          "hash": "36292121310acdfddf098bc47e2ba926db19a830",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2020-08-20 04:00:34 -0400",
+          "message": "Add evergreen variations",
+          "files": []
+        },
+        {
+          "hash": "7739286dcbc35cb2fafb8211103a4ca21ad9464e",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2020-08-20 03:55:34 -0400",
+          "message": "Remove the border and padding from color and range inputs in all browsers",
+          "files": []
+        },
+        {
+          "hash": "a1eb7bc43b3de64dc6646059899ae280c753d6ab",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2020-08-20 01:49:09 -0400",
+          "message": "Allow animations, scrolling effects, and transitions to be reduced in all browsers",
+          "files": []
+        },
+        {
+          "hash": "5d86afd1d5c76414f086e97f276dae7d2ec2e7dd",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2020-08-20 01:28:03 -0400",
+          "message": "Announce `nav ol, nav ul` list semantics on Safari with VoiceOver",
+          "files": []
+        },
+        {
+          "hash": "54a7da3ca0e7b29cfd8cabeef69795a706fe9ecf",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2020-08-20 00:22:36 -0400",
+          "message": "Move sizing restrictions in all browsers to `assets.css`",
+          "files": []
+        },
+        {
+          "hash": "58990c75329dfef904333baea663c3eedaecf92a",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2020-08-20 00:16:00 -0400",
+          "message": "Prevent overflow of a `pre` container in all browsers",
+          "files": []
+        },
+        {
+          "hash": "e444e65bda8a3bf8a14e01ceb5a3222a05923c6f",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2020-08-20 00:06:27 -0400",
+          "message": "Only remove the tapping delay in IE 10, where it matters",
+          "files": []
+        },
+        {
+          "hash": "8f10d2ed979b8f4acc857e717eddf0b1a66d0c5c",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2020-08-19 23:56:10 -0400",
+          "message": "Copy changes from @csstools/normalize.css@11",
+          "files": []
+        },
+        {
+          "hash": "66dd0308db731b956f0f78501d1f1386fb952a25",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2020-05-20 13:45:21 -0400",
+          "message": "11.0.1",
+          "files": []
+        },
+        {
+          "hash": "d3be8b5764f55c0405e2ecbb3a74b5257dc61cd0",
+          "author": "arnorhs@gmail.com",
+          "date": "2020-03-08 07:04:17 +0000",
+          "message": "Fixed the forms anchor link",
+          "files": []
+        },
+        {
+          "hash": "5bd695fdc7be25221c542810a72c174a33d6fb00",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2019-07-12 08:34:00 -0400",
+          "message": "Update README.md documentation",
+          "files": []
+        },
+        {
+          "hash": "7fe817c74e8f8584f2523181e6d3d403fcd41a60",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2019-07-11 08:51:03 -0400",
+          "message": "11.0.0",
+          "files": []
+        },
+        {
+          "hash": "d703d5da2edd0c35658f5493dda3c1eb154219bd",
+          "author": "hi@alexandersandberg.com",
+          "date": "2019-07-04 12:39:03 +0200",
+          "message": "Separate styling of <select>",
+          "files": []
+        },
+        {
+          "hash": "b1555b1445786588f99dda84ab8220345ec0d831",
+          "author": "nbabcock19@hotmail.com",
+          "date": "2019-06-04 07:18:00 -0500",
+          "message": "Update readme to reference page css",
+          "files": []
+        },
+        {
+          "hash": "6faee43ecc70ae0a6e18079233558e99c868682a",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2019-06-03 13:20:15 -0400",
+          "message": "10.0.0",
+          "files": []
+        },
+        {
+          "hash": "804b41eee4a56ca1d4b0df178d6258e0231aea1f",
+          "author": "49923665+teddywsi@users.noreply.github.com",
+          "date": "2019-05-17 18:33:22 -0400",
+          "message": "Inherit letter spacing",
+          "files": []
+        },
+        {
+          "hash": "a592ee1fee335d9f8533521d18a2ede0cedeecbd",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2019-05-17 02:23:50 -0400",
+          "message": "9.0.0",
+          "files": []
+        },
+        {
+          "hash": "f5381ef1831ba8a24d9c792443a2b8cab6a19711",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2019-05-13 12:23:17 -0400",
+          "message": "8.0.1",
+          "files": []
+        },
+        {
+          "hash": "f676ce51dba5784e48b158f2610bc4efcd4d921c",
+          "author": "pavasich@users.noreply.github.com",
+          "date": "2019-03-28 13:24:34 -0500",
+          "message": "sanitize.css: change browers typo to browsers",
+          "files": []
+        },
+        {
+          "hash": "2d56888f7cf85be78d0fa89d7cacc7d42b105504",
+          "author": "alex@blunck.co",
+          "date": "2018-10-11 14:32:35 +0200",
+          "message": "8.0.0",
+          "files": []
+        },
+        {
+          "hash": "8a35f11bc77da31ddea968223063ccfca523beea",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2018-10-08 11:47:49 -0400",
+          "message": "8.0.0",
+          "files": []
+        },
+        {
+          "hash": "849e4ad211486e56ce69e357405d9e0b4ae664fd",
+          "author": "davidmerrique@users.noreply.github.com",
+          "date": "2018-10-08 11:40:06 -0400",
+          "message": "Don't override svg fill",
+          "files": []
+        },
+        {
+          "hash": "b8f007f4e3de2f6205c8ac9719ada3b76b2673e7",
+          "author": "info@martyhelmick.com",
+          "date": "2018-09-28 10:45:17 -0400",
+          "message": "`aria-disabled` is either true or false.",
+          "files": []
+        },
+        {
+          "hash": "2c0ef9ee08da3f7a1d1d66dbde89ff7d0877f503",
+          "author": "jacopo@giola.org",
+          "date": "2018-10-07 13:55:08 +0200",
+          "message": "Uniform fixed-width fonts.",
+          "files": []
+        },
+        {
+          "hash": "4b2a3deafc4f59ddd0ec7e00c3d0a58cbd3ad00f",
+          "author": "info@martyhelmick.com",
+          "date": "2018-09-24 17:33:55 -0400",
+          "message": "switch assignments in inline docs.",
+          "files": []
+        },
+        {
+          "hash": "b3f4d2dddca48e30675ad599451ba18d0dec0622",
+          "author": "ivan@barcia.gal",
+          "date": "2018-09-06 20:56:43 +0200",
+          "message": "Update KDE Plasma font",
+          "files": []
+        },
+        {
+          "hash": "3b82306f47fe664ca52d2727ca037c8d1f86abff",
+          "author": "info@vitorgalvao.com",
+          "date": "2018-09-05 21:21:14 +0100",
+          "message": "README.md: remove \"prevent prevent\" repetition",
+          "files": []
+        },
+        {
+          "hash": "fd037429351609e979f13f73797332cc3bbf2068",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2018-09-04 08:58:46 -0400",
+          "message": "7.0.3",
+          "files": []
+        },
+        {
+          "hash": "6aa781b1bb3c885da883ca0fb44a0b45c75f4026",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2018-09-04 08:49:07 -0400",
+          "message": "7.0.2",
+          "files": []
+        },
+        {
+          "hash": "df1f5a7c6d58ddb35c83128e8604c0c3b19252af",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2018-08-25 17:40:37 -0400",
+          "message": "7.0.1",
+          "files": []
+        },
+        {
+          "hash": "7eaa6ef9f8a1211853658e51b9c38612b739cb39",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2018-08-22 11:54:16 -0400",
+          "message": "tag sanitize.css as 7.0.0",
+          "files": []
+        },
+        {
+          "hash": "8b9f3f12a704f3884e30fa2e53f60e39df3ee03d",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2018-08-22 11:46:15 -0400",
+          "message": "Update README.md to improve installation instructions",
+          "files": []
+        },
+        {
+          "hash": "b5dbabcd9995d805099c730c73b65afcd516cf37",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2018-08-22 11:37:53 -0400",
+          "message": "7.0.0",
+          "files": []
+        },
+        {
+          "hash": "d6035ac28da8d388a23dd694e669d14da83c61b2",
+          "author": "06b@users.noreply.github.com",
+          "date": "2018-07-31 16:20:18 -0400",
+          "message": "Remove duplication in comment",
+          "files": []
+        },
+        {
+          "hash": "87af978a5b9366a0ce12912c3dc2b021465fbbf1",
+          "author": "josef.aidt@gmail.com",
+          "date": "2018-07-20 12:57:55 -0500",
+          "message": "add ~ to CSS import",
+          "files": []
+        },
+        {
+          "hash": "d479d8937782a2b2d0190bd5083554e35cc74fb2",
+          "author": "mario@mariods.net",
+          "date": "2018-07-10 13:10:34 +0200",
+          "message": "Add installation / usage instructions to README.md",
+          "files": []
+        },
+        {
+          "hash": "4bf3a92b43d181f4738743c8ff06da77a7a89aa7",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2018-06-23 22:25:49 -0400",
+          "message": "6.0.0",
+          "files": []
+        },
+        {
+          "hash": "bea611fa8f2f86fe85d4d6fbd3b5d6e00cd09c50",
+          "author": "imaus10@gmail.com",
+          "date": "2018-05-04 18:24:40 -0400",
+          "message": "Reset the cursor to default for a disabled element",
+          "files": []
+        },
+        {
+          "hash": "6b8ba103ac6b8dde74339676195a0bce2a0f5a5c",
+          "author": "baro.luc@gmail.com",
+          "date": "2017-11-08 00:35:31 +0100",
+          "message": "Prepare next release :bookmark:",
+          "files": []
+        },
+        {
+          "hash": "bd35f5a03dd7835ea0db1dd0acaf5823f6d53882",
+          "author": "info+github@ttanimichi.com",
+          "date": "2018-04-23 12:51:57 +0900",
+          "message": "Fix a typo",
+          "files": []
+        },
+        {
+          "hash": "332cfdbd94564c2d76747a16338fcf1b7f0d8d55",
+          "author": "baro.luc@gmail.com",
+          "date": "2017-11-07 13:00:18 +0100",
+          "message": "Add font-family inherit to inputs tags",
+          "files": []
+        },
+        {
+          "hash": "7e31560072e218b7d0d4ccf43c96de32adfee3d0",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2017-07-17 12:16:28 -0400",
+          "message": "Update development dependencies",
+          "files": []
+        },
+        {
+          "hash": "f6c400aa6bfe19484395d29080671ece06edceb1",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2017-07-17 12:12:56 -0400",
+          "message": "Merge branch 'levithomason-patch-1'",
+          "files": []
+        },
+        {
+          "hash": "04084043f7e5c31007e064b36e344a00f4deb421",
+          "author": "me@levithomason.com",
+          "date": "2017-06-11 14:44:52 -0700",
+          "message": "docs(readme): update form controls snippet",
+          "files": []
+        },
+        {
+          "hash": "0354b8278dd05b41b81417cacba3a810d2639cef",
+          "author": "me@levithomason.com",
+          "date": "2017-06-11 14:43:21 -0700",
+          "message": "fix(form-controls): remove background transparent",
+          "files": []
+        },
+        {
+          "hash": "d5345f827cf79ab7881d62a99cbc13eed2458f2e",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2017-03-01 20:38:01 -0500",
+          "message": "README.md",
+          "files": []
+        },
+        {
+          "hash": "75a91f5d89652f9164c5163d6b8a82e6a272dbe3",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2017-03-01 20:19:54 -0500",
+          "message": "5.0.0",
+          "files": []
+        },
+        {
+          "hash": "876dec6132138f57f07b393703d1f6b9fd1ec9f9",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2017-03-01 19:47:47 -0500",
+          "message": "README.md",
+          "files": []
+        },
+        {
+          "hash": "13058f3bd574b7c329dfee358cb902b64c8636cf",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-12-29 23:52:04 -0500",
+          "message": "normalize.css v6.0.0 parity",
+          "files": []
+        },
+        {
+          "hash": "e43f1d50cb89149eb6c49687bc53ddacdf516279",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-12-29 13:46:03 -0500",
+          "message": "Update README.md",
+          "files": []
+        },
+        {
+          "hash": "028972527305f157149f4faabf628436802bc0e3",
+          "author": "daniel211920@gmail.com",
+          "date": "2016-12-30 02:32:43 +0800",
+          "message": "add CDNJS version badge in README.md (#125)",
+          "files": []
+        },
+        {
+          "hash": "4b864795d9addcd6f8682b78ca063195609b6350",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-12-29 13:30:17 -0500",
+          "message": "Update package.json",
+          "files": []
+        },
+        {
+          "hash": "3c44316082957ec1b216b76149b2d4bcd0dd8e14",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-12-29 13:25:16 -0500",
+          "message": "Remove unnecessary border-spacing removal",
+          "files": []
+        },
+        {
+          "hash": "e5f83bef3da2fe980920d3bc9b109d05a4c85b45",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-12-29 13:23:13 -0500",
+          "message": "Update <summary> element",
+          "files": []
+        },
+        {
+          "hash": "dc04ccbab9c18bb2c2943bbf94c70596ba3e170b",
+          "author": "manny@sudokrew.com",
+          "date": "2016-12-29 07:57:44 -1000",
+          "message": "Allow form elements to inherit line-height from html (#119)",
+          "files": []
+        },
+        {
+          "hash": "99ea5332f4025647c5c77f2f6c3e6dcd7c2788cc",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-10-04 23:56:12 -0400",
+          "message": "Update package",
+          "files": []
+        },
+        {
+          "hash": "1f60d9e7dca65bdf3f3f6392745d9350369d2a4d",
+          "author": "chuckinthestar@gmail.com",
+          "date": "2016-10-05 05:38:13 +0900",
+          "message": "alter main item of package.json (#111)",
+          "files": []
+        },
+        {
+          "hash": "94b34cf9c1a23f42c7d45fac82a0865de2b1b551",
+          "author": "bill.criswell@gmail.com",
+          "date": "2016-08-29 08:39:33 -0400",
+          "message": "Corrected some comment numbering. (#110)",
+          "files": []
+        },
+        {
+          "hash": "bf0fab34fef3ff2585b6332cdb91c4e1c8876103",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-07-01 00:05:49 -0400",
+          "message": "4.1.0",
+          "files": []
+        },
+        {
+          "hash": "1064c0d44c92d6049a32b4a1d418eb8b65d903cf",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-06-30 23:58:17 -0400",
+          "message": "Update CDN reference",
+          "files": []
+        },
+        {
+          "hash": "67745f5174848546f88e68d11b5f0de3ef53a5c7",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-06-30 23:55:53 -0400",
+          "message": "Update locations",
+          "files": []
+        },
+        {
+          "hash": "de9ff189f5c769d08702ccc80f3e75d7e95662cc",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-06-20 15:06:41 -0400",
+          "message": "Update installation section",
+          "files": []
+        },
+        {
+          "hash": "db0df100445bd784bc5ba45b361cd31a391f0858",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-06-20 14:19:08 -0400",
+          "message": "Update documentation",
+          "files": []
+        },
+        {
+          "hash": "d7ed3995d656b670fb957c9f03e85e38247a78a3",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-06-20 14:18:17 -0400",
+          "message": "Update documentation",
+          "files": []
+        },
+        {
+          "hash": "bf3d695016cbd5d17c89361d4273f3d5f69aa0ee",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-06-20 14:03:00 -0400",
+          "message": "4.0.0 (#103)",
+          "files": []
+        },
+        {
+          "hash": "f6b74d09cf9225ac82ea026d73ec7c35e2a2a894",
+          "author": "info@martyhelmick.com",
+          "date": "2016-05-31 09:05:20 -0400",
+          "message": "Correct README `root-color` default (#100)",
+          "files": []
+        },
+        {
+          "hash": "998ea92677e805b96effdca190060ba49a998826",
+          "author": "ciju@users.noreply.github.com",
+          "date": "2016-04-29 00:11:49 +0530",
+          "message": "Wrap font expression with #{} (#95)",
+          "files": []
+        },
+        {
+          "hash": "d33f62f2e72271980aac8a105d53e08222d9e477",
+          "author": "lip.linhares@gmail.com",
+          "date": "2016-04-28 15:41:35 -0300",
+          "message": "Adds sanitize.sss to package.json (#92)",
+          "files": []
+        },
+        {
+          "hash": "d15d8306b38563954256bf54fab5291a5da7950b",
+          "author": "lip.linhares@gmail.com",
+          "date": "2016-04-28 15:41:19 -0300",
+          "message": "Update stylelint version (#91)",
+          "files": []
+        },
+        {
+          "hash": "27ea5a8102f088cf0d6b6eb95f20a3f036443b25",
+          "author": "declandewet@me.com",
+          "date": "2016-04-18 16:18:19 +0200",
+          "message": "Added SugarSS Syntax (#86)",
+          "files": []
+        },
+        {
+          "hash": "67b88f4750ef2e36c603986055b5b0c86fb6797b",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-03-19 22:46:27 -0400",
+          "message": "Merge pull request #82 from kaelig/fix/links",
+          "files": []
+        },
+        {
+          "hash": "905d7691eec02814e9f116a1f118155671782571",
+          "author": "kaelig@deloumeau.fr",
+          "date": "2016-03-19 17:32:03 -0700",
+          "message": "Fix link to issues and remove broken link to fork",
+          "files": []
+        },
+        {
+          "hash": "bc245fc535a034acc6f4f9b58fe15c5ca7564b68",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-03-18 13:18:52 -0400",
+          "message": "Merge pull request #80 from machida/fix/remove-semicolons",
+          "files": []
+        },
+        {
+          "hash": "297bf5af99b86eded81eaf1560cfe52b45c17957",
+          "author": "machida@fjord.jp",
+          "date": "2016-03-19 01:49:56 +0900",
+          "message": "Remove semicolons",
+          "files": []
+        },
+        {
+          "hash": "3358dbdf208832148b49ab8c4d3aed1db985ee46",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-03-03 15:42:39 -0500",
+          "message": "Merge branch 'feature/reorganization'",
+          "files": []
+        },
+        {
+          "hash": "0e5273d8db81e840cbeac1454ad238c39b192395",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-03-03 15:36:11 -0500",
+          "message": "3.3.0",
+          "files": []
+        },
+        {
+          "hash": "688f68b3daa56007d15b4e182b3a7c85c18365b8",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-02-28 12:56:30 -0500",
+          "message": "Merge pull request #75 from vovanbo/patch-1",
+          "files": []
+        },
+        {
+          "hash": "772520e21a7e29722321cb1242c0712a382ae75b",
+          "author": "vovanbo@gmail.com",
+          "date": "2016-02-28 19:09:14 +0300",
+          "message": "Dates of 3.X.X versions is fixed in CHANGELOG",
+          "files": []
+        },
+        {
+          "hash": "9778df044c82a118fc731f42ecf580c9fd64b2b2",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-02-23 17:01:07 -0500",
+          "message": "Merge pull request #72 from allenmoore/fix/documentation-filenames",
+          "files": []
+        },
+        {
+          "hash": "2a168d5843cde5fdc728b66135045859654fd2df",
+          "author": "allen.moore@10up.com",
+          "date": "2016-02-23 03:34:19 -0500",
+          "message": "change reference to sanitize.scss file in readme",
+          "files": []
+        },
+        {
+          "hash": "5fa57a24fa3e50a2547da7a003cc0723ccefaeff",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-02-15 14:32:12 -0500",
+          "message": "Update documentation",
+          "files": []
+        },
+        {
+          "hash": "78008b4cce3031a7be4caac1edb77075e96ea420",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-02-15 14:31:55 -0500",
+          "message": "Organize rules",
+          "files": []
+        },
+        {
+          "hash": "7e86289900dba59ed7461472ab6f05878b53c61d",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-02-15 14:05:43 -0500",
+          "message": "Update references",
+          "files": []
+        },
+        {
+          "hash": "eab9064425a8aecb9961b5f7582685bc8c4fb903",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-02-15 14:05:15 -0500",
+          "message": "Move compiled library",
+          "files": []
+        },
+        {
+          "hash": "77ee833a15b10f24ae2fd0d1ebf99813f571d598",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-02-15 14:04:30 -0500",
+          "message": "Move source libraries",
+          "files": []
+        },
+        {
+          "hash": "c904490677ef4a03c9e893ea8f824e646033481c",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-02-05 23:26:25 -0500",
+          "message": "Merge pull request #66 from charbelrami/prefix-font-family",
+          "files": []
+        },
+        {
+          "hash": "b8f4138085bd4578017783318ea4d064fbe71f65",
+          "author": "charbel.f.rami@gmail.com",
+          "date": "2016-02-06 02:21:18 -0200",
+          "message": "prefix --font-family with --root",
+          "files": []
+        },
+        {
+          "hash": "bb1c47a163814e128d43d63287cc0e74ed0a9e29",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-02-03 23:58:56 -0500",
+          "message": "Update README.md",
+          "files": []
+        },
+        {
+          "hash": "598ebd10206d26245e5c484bbdcb6c25fd94fb90",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-02-03 23:50:12 -0500",
+          "message": "Update README.md",
+          "files": []
+        },
+        {
+          "hash": "e42cf3c30f6d64c9ff15e50be3e855d209361877",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-02-03 23:43:44 -0500",
+          "message": "3.2.0",
+          "files": []
+        },
+        {
+          "hash": "dbff0ab34f0700d7727f1140398c282a1d0d410f",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-02-03 23:18:14 -0500",
+          "message": "Use same root-prefixed variables in sanitize.css",
+          "files": []
+        },
+        {
+          "hash": "2c18eae5b9a0554c907ff4f06be7a0599f3e0591",
+          "author": "sota.yamashita@gmail.com",
+          "date": "2016-02-02 19:44:01 +0900",
+          "message": "Implement sanitize.less",
+          "files": []
+        },
+        {
+          "hash": "115b82014c1af07a6cea04f77838ff431d80149d",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-02-01 09:20:10 -0500",
+          "message": "Merge branch 'feature/3.1.0'",
+          "files": []
+        },
+        {
+          "hash": "5f4bda73f852e6a5fdf9f97fc2572ad7460c3e3e",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-02-01 09:16:30 -0500",
+          "message": "3.1.1",
+          "files": []
+        },
+        {
+          "hash": "770ef29403bfad7066e378007432387b9047e51f",
+          "author": "alex@blunck.xyz",
+          "date": "2016-02-01 09:32:17 +0100",
+          "message": "Fix \"box-sizing\" default value",
+          "files": []
+        },
+        {
+          "hash": "745de3b7383ec57c1a08c3704c6c448b742fc5cc",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-02-01 00:46:43 -0500",
+          "message": "3.1.0",
+          "files": []
+        },
+        {
+          "hash": "e6166dd264ca24b7a84fbffefbc313857fb0b702",
+          "author": "zrothauser@gmail.com",
+          "date": "2016-01-26 11:45:31 -0600",
+          "message": "Add touch-action: manipulation on clickable elements to prevent delay when tapping.",
+          "files": []
+        },
+        {
+          "hash": "d6f33e2cb32282b5189269b5edb77552cbcfc0de",
+          "author": "luke@luke-watts.com",
+          "date": "2016-01-10 18:25:54 +0000",
+          "message": "Add sanitize.sass",
+          "files": []
+        },
+        {
+          "hash": "a8d8942ac2506bd4a226401f3a2a1a72858a50d4",
+          "author": "mxxstudio@gmail.com",
+          "date": "2015-12-20 13:57:42 +0900",
+          "message": "Stylus Interpolation couldn't compile unit string. Use `unit` built in function instead. And fix typo README.md.",
+          "files": []
+        },
+        {
+          "hash": "75be8898c8b575532c5ede59fdc28ba58dba859d",
+          "author": "robert.reinhard@bkwld.com",
+          "date": "2015-11-24 16:06:54 -0800",
+          "message": "Allow stylus variables to be overridden",
+          "files": []
+        },
+        {
+          "hash": "7374039d3bee7efb731a715fe27d27a28eb124b4",
+          "author": "metaloha@users.noreply.github.com",
+          "date": "2015-10-23 14:58:45 -0600",
+          "message": "Changed foreground ::selection color variable.",
+          "files": []
+        },
+        {
+          "hash": "fa86c695b764f3192c9447952abc133f363253f0",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-01-31 17:14:45 -0500",
+          "message": "Merge pull request #63 from charbelrami/standardize-variable-names",
+          "files": []
+        },
+        {
+          "hash": "1c12cff411dfa6d5ad9c80e3d7bf33bef2fd2c55",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-01-30 12:41:16 -0500",
+          "message": "Merge pull request #61 from zrothauser/feature/touch-action",
+          "files": []
+        },
+        {
+          "hash": "bcd0d1a0dfe597299a38478ed9e1a0938e2b1c00",
+          "author": "charbel.f.rami@gmail.com",
+          "date": "2016-01-28 09:09:25 -0200",
+          "message": "replace --html by --root",
+          "files": []
+        },
+        {
+          "hash": "b59a9bdf814d63ce17b3bd7e0ceafd0f7080590a",
+          "author": "zrothauser@gmail.com",
+          "date": "2016-01-26 11:45:31 -0600",
+          "message": "Add touch-action: manipulation on clickable elements to prevent delay when tapping.",
+          "files": []
+        },
+        {
+          "hash": "86c5e0e1fb64456989fb34212887c7198d499426",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-01-14 21:15:58 -0500",
+          "message": "Merge pull request #57 from lukewatts/master",
+          "files": []
+        },
+        {
+          "hash": "6c6b5ff8726fa50f6ea2326017625114d5c269af",
+          "author": "luke@luke-watts.com",
+          "date": "2016-01-10 18:25:54 +0000",
+          "message": "Add sanitize.sass",
+          "files": []
+        },
+        {
+          "hash": "60a5fee19f00181858129b3623b40f12dfdfae6b",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2016-01-04 17:34:36 -0500",
+          "message": "Merge pull request #54 from m-iskw/fix/stylus",
+          "files": []
+        },
+        {
+          "hash": "d09499569715bb7ff45f92398eab6a20527b8d47",
+          "author": "mxxstudio@gmail.com",
+          "date": "2015-12-20 13:57:42 +0900",
+          "message": "Stylus Interpolation couldn't compile unit string. Use `unit` built in function instead. And fix typo README.md.",
+          "files": []
+        },
+        {
+          "hash": "369f5cac7ce92fff00501f129a21542f51efd888",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2015-11-24 20:51:58 -0500",
+          "message": "Merge pull request #51 from metaloha/patch-1",
+          "files": []
+        },
+        {
+          "hash": "5cdf5a9c6d68c5d633bd89a710c195d1539dfa1a",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2015-11-24 20:51:26 -0500",
+          "message": "Merge pull request #53 from weotch/patch-1",
+          "files": []
+        },
+        {
+          "hash": "493191adde9724e63d23a7d20047d69d31be4735",
+          "author": "robert.reinhard@bkwld.com",
+          "date": "2015-11-24 16:06:54 -0800",
+          "message": "Allow stylus variables to be overridden",
+          "files": []
+        },
+        {
+          "hash": "5ca427cd0945f0a563ce7480801c32e71d822c17",
+          "author": "metaloha@users.noreply.github.com",
+          "date": "2015-10-23 14:58:45 -0600",
+          "message": "Changed foreground ::selection color variable.",
+          "files": []
+        },
+        {
+          "hash": "ed4da2d8953de60ca429b2836efeaea9192c9b8c",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2015-10-23 10:21:31 -0400",
+          "message": "Update bower.json",
+          "files": []
+        },
+        {
+          "hash": "caf23e045cb701119f86eb453c9ca346a329eb5f",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2015-10-23 10:17:59 -0400",
+          "message": "Update documentation",
+          "files": []
+        },
+        {
+          "hash": "257a23b40bfe12c972a6d5119f28ddb8256cc875",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2015-10-23 10:17:52 -0400",
+          "message": "Update sanitize.styl",
+          "files": []
+        },
+        {
+          "hash": "7b0b887909ba56ac4c61c4a39fb033af6508b23c",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2015-10-23 10:17:22 -0400",
+          "message": "Remove gulpfile",
+          "files": []
+        },
+        {
+          "hash": "fbd9c5a68a6094daf87d803a6e3895fdf2a9b466",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2015-10-23 10:03:43 -0400",
+          "message": "Merge pull request #49 from sotayamashita/patch-2",
+          "files": []
+        },
+        {
+          "hash": "8eb14223c1d5c928a2a51b17d4227849e7b5bdb7",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2015-10-23 10:01:18 -0400",
+          "message": "3.0.0",
+          "files": []
+        },
+        {
+          "hash": "6b9513b557f42646a11721fa8ae6d66dc14a2729",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2015-10-23 09:59:35 -0400",
+          "message": "Update sanitize.css",
+          "files": []
+        },
+        {
+          "hash": "0735a1b188497e3643ca304b4e83a4a26b4abf8d",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2015-10-23 09:58:32 -0400",
+          "message": "Update index.js",
+          "files": []
+        },
+        {
+          "hash": "2a88ccfe79c703add7e27cfef94cfba004a2f84b",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2015-10-23 09:08:17 -0400",
+          "message": "Update CONTRIBUTING.md",
+          "files": []
+        },
+        {
+          "hash": "052a4df5be867c0b7b397743bb282009e8cb695d",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2015-10-23 09:07:31 -0400",
+          "message": "Update sanitize.css",
+          "files": []
+        },
+        {
+          "hash": "d2709fddc600b40f65f04ab10aeec467d40a04b6",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2015-10-23 09:07:20 -0400",
+          "message": "Update sanitize.styl",
+          "files": []
+        },
+        {
+          "hash": "e1095966ef638c777d08f82c6e5d40f632952cc4",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2015-10-23 09:06:59 -0400",
+          "message": "Update sanitize.scss",
+          "files": []
+        },
+        {
+          "hash": "41b064b03c104601d2539f8d282fb01bb85a59b1",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2015-10-23 09:06:37 -0400",
+          "message": "Cleanup CHANGELOG.md",
+          "files": []
+        },
+        {
+          "hash": "386f56896b037cd4ec5ca315bcf3fcf9853c2cb3",
+          "author": "sotayamashita@users.noreply.github.com",
+          "date": "2015-10-07 13:54:21 +0900",
+          "message": "Polish up: .editorconfig",
+          "files": []
+        },
+        {
+          "hash": "82bdb6569e455a0fbd02a8ac43c051564671f6b4",
+          "author": "sotayamashita@users.noreply.github.com",
+          "date": "2015-10-07 10:32:41 +0900",
+          "message": "Create .editorconfig",
+          "files": []
+        },
+        {
+          "hash": "c39cf6bcff6fbeb4d22904c95b1f204a1205672f",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2015-10-06 14:19:34 -0400",
+          "message": "Merge pull request #46 from sotayamashita/patch-1",
+          "files": []
+        },
+        {
+          "hash": "5cc076b855db499f60c95bc9e58c262fb26d2aa8",
+          "author": "sotayamashita@users.noreply.github.com",
+          "date": "2015-10-07 02:54:31 +0900",
+          "message": "Create sanitize.styl",
+          "files": []
+        },
+        {
+          "hash": "7b60c2e5eea459fc4250c7fa7861cfe9f7cb011c",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2015-10-06 12:47:06 -0400",
+          "message": "2.1.1",
+          "files": []
+        },
+        {
+          "hash": "7c38fdde7ad5f300dcf1875782b1a6c01e6b3df5",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2015-10-05 16:16:00 -0400",
+          "message": "Update CHANGELOG.md",
+          "files": []
+        },
+        {
+          "hash": "b61637187ed35cf5349bb7c287b1fdcd57da5d98",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2015-10-05 16:13:12 -0400",
+          "message": "2.1.0",
+          "files": []
+        },
+        {
+          "hash": "3de25e633852d77be77d0bc2746b7e816c6a62e1",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2015-10-05 16:13:05 -0400",
+          "message": "Update CSS version",
+          "files": []
+        },
+        {
+          "hash": "79c50ad0351621a3adbe8a96d42e34efda3307ec",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2015-09-19 14:11:16 -0400",
+          "message": "Merge pull request #41 from FabianBeiner/master",
+          "files": []
+        },
+        {
+          "hash": "7c62e82c506b6fd5e134f4a956c59439893940f8",
+          "author": "fb@fabianbeiner.de",
+          "date": "2015-09-19 13:50:35 +0200",
+          "message": "Updated sanitize.scss",
+          "files": []
+        },
+        {
+          "hash": "fb477511aec3d4082f2513d599f87c1a673aaaf5",
+          "author": "fb@fabianbeiner.de",
+          "date": "2015-09-19 13:48:15 +0200",
+          "message": "Textual changes",
+          "files": []
+        },
+        {
+          "hash": "344e84ef5805933d85b09221ce75c93aa016a37e",
+          "author": "fb@fabianbeiner.de",
+          "date": "2015-09-19 13:43:59 +0200",
+          "message": "Updated gulpfile.js and package.json",
+          "files": []
+        },
+        {
+          "hash": "292c630d3607d9023b33b844b527aedfad07b70c",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2015-09-10 10:05:08 -0400",
+          "message": "Remove background-color inheritance",
+          "files": []
+        },
+        {
+          "hash": "52340b84b5469e6cc20ecfee34c5f9d884b08967",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2015-09-10 10:02:16 -0400",
+          "message": "Merge pull request #39 from tzi/patch-1",
+          "files": []
+        },
+        {
+          "hash": "94f006f8b0acaaf1bb29b1a38284742500191e8b",
+          "author": "thomas@zilliox.me",
+          "date": "2015-09-10 11:37:36 +0200",
+          "message": "Update highlights code line references",
+          "files": []
+        },
+        {
+          "hash": "a45026b820a31bae46724917bc728f44c50577d4",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2015-09-04 09:04:04 -0400",
+          "message": "Use percentage font-size on :root",
+          "files": []
+        },
+        {
+          "hash": "3891db1718ce1b0a5f575760c5b89e2b55e174b9",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2015-09-03 10:04:48 -0400",
+          "message": "Merge pull request #35 from 10up/2.0.0",
+          "files": []
+        },
+        {
+          "hash": "5c40a888fad923cf434c29a87bf7516e9efb4b62",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2015-08-31 18:59:20 -0400",
+          "message": "2.0.0",
+          "files": []
+        },
+        {
+          "hash": "9a3be0f0bcdc31c5538c6f136ab2d06b46af8908",
+          "author": "nate@ngoldman.me",
+          "date": "2015-05-31 15:14:20 -0700",
+          "message": "Merge pull request #25 from brunorios1/form-min-height",
+          "files": []
+        },
+        {
+          "hash": "8abf89f11ab1a9f2e35a487b1847f4d8b9251169",
+          "author": "brunorios1@gmail.com",
+          "date": "2015-05-03 13:12:30 -0300",
+          "message": "Merge remote-tracking branch 'upstream/master'",
+          "files": []
+        },
+        {
+          "hash": "3607baed20f333632f647f461e63d6d004f0d47c",
+          "author": "brunorios1@gmail.com",
+          "date": "2015-05-03 13:03:59 -0300",
+          "message": "some form elements doest not need min-height equals to line-height",
+          "files": []
+        },
+        {
+          "hash": "428429ff55bfbe9dcd356f1f2e2b1f64c0cd6645",
+          "author": "nate@ngoldman.me",
+          "date": "2015-05-02 08:46:26 -0700",
+          "message": "Merge pull request #23 from DominikSerafin/master",
+          "files": []
+        },
+        {
+          "hash": "24319b9b5507f5c108bd8e5e8796b21f1cce08e7",
+          "author": "nate@ngoldman.me",
+          "date": "2015-04-14 21:46:03 -0700",
+          "message": "Merge pull request #27 from ngoldman/master",
+          "files": []
+        },
+        {
+          "hash": "167b569bac79f23d956d73d24004512bbbb11d29",
+          "author": "nate@ngoldman.me",
+          "date": "2015-04-14 21:39:28 -0700",
+          "message": "fix bower badge",
+          "files": []
+        },
+        {
+          "hash": "bac15a93661d4baeb3513bba4a9eb2664fd6a1ee",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2015-04-14 16:23:06 -0400",
+          "message": "Merge pull request #20 from ngoldman/patch-1",
+          "files": []
+        },
+        {
+          "hash": "5c34951080fcdd0d5d15e13e45eecf232e2f96c6",
+          "author": "DominikDsgnr@gmail.com",
+          "date": "2015-04-03 14:18:58 +0200",
+          "message": "change body background color to html background color",
+          "files": []
+        },
+        {
+          "hash": "02478c057d466c26dd82524a3cea5eccff3d0aa3",
+          "author": "DominikDsgnr@gmail.com",
+          "date": "2015-04-03 13:36:48 +0200",
+          "message": "specify the body background color",
+          "files": []
+        },
+        {
+          "hash": "330bd27f94569452b125ab420b244f6058527da1",
+          "author": "nate@ngoldman.me",
+          "date": "2015-03-31 10:29:16 -0700",
+          "message": "add npm & bower version badges",
+          "files": []
+        },
+        {
+          "hash": "b65fc7c0f53627a0fc7ceca6c6251e8bfd97a333",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2015-03-30 13:36:58 -0400",
+          "message": "Update sanitize.css",
+          "files": []
+        },
+        {
+          "hash": "fbc33d011a8c5e67c71ced22b9d2762cb1ef9e69",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2015-03-30 13:36:51 -0400",
+          "message": "Update sanitize.css",
+          "files": []
+        },
+        {
+          "hash": "280476874f0156003cbf37088c92b5f45e99d75d",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2015-03-30 13:18:03 -0400",
+          "message": "Merge pull request #15 from bjork24/master",
+          "files": []
+        },
+        {
+          "hash": "5e5c4200949525d1c2c9b875ecedefac0c4180b7",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2015-03-30 13:17:47 -0400",
+          "message": "Merge pull request #11 from bcomnes/master",
+          "files": []
+        },
+        {
+          "hash": "fdbafaa37664bea8d2e9374986eeeae3b3f6bbf1",
+          "author": "dan.chilton@gmail.com",
+          "date": "2015-03-28 12:54:05 -0500",
+          "message": "Update README with correct code line references",
+          "files": []
+        },
+        {
+          "hash": "40bbc576fd4d807968f04c5634ce23d9f2c31403",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2015-03-24 00:26:48 -0400",
+          "message": "Cleanup documentation",
+          "files": []
+        },
+        {
+          "hash": "3e9ab77bac09c8988874d6a1e7e41ec7317ebd14",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2015-03-24 00:25:48 -0400",
+          "message": "Update sanitize.css",
+          "files": []
+        },
+        {
+          "hash": "5bb2143075e633d70f8d071622ac64a53bedaab1",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2015-03-24 00:25:32 -0400",
+          "message": "Update inheritance",
+          "files": []
+        },
+        {
+          "hash": "5d4bc2905ae52f2f9db94d6cf84da8a2fc05616e",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2015-03-23 13:26:40 -0400",
+          "message": "Merge pull request #14 from bjork24/patch-1",
+          "files": []
+        },
+        {
+          "hash": "d3c303cd4c1878564a622fe81b9bbfa20d4a2c69",
+          "author": "dan.chilton@gmail.com",
+          "date": "2015-03-23 12:10:03 -0500",
+          "message": "Put border width reference back in",
+          "files": []
+        },
+        {
+          "hash": "acaa274110e4ff47466d55a13507487f2e00bae3",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2015-03-23 13:00:08 -0400",
+          "message": "Merge pull request #13 from bjork24/master",
+          "files": []
+        },
+        {
+          "hash": "672334ad4af174baafeadc043a96ee953756ee69",
+          "author": "dan.chilton@gmail.com",
+          "date": "2015-03-23 11:47:38 -0500",
+          "message": "Updated code line references",
+          "files": []
+        },
+        {
+          "hash": "a836605fa4336c3cb9de21cf8b456e28ecce4e29",
+          "author": "bcomnes@gmail.com",
+          "date": "2015-03-21 13:12:53 -0700",
+          "message": "Added the js export to package.json",
+          "files": []
+        },
+        {
+          "hash": "e2670d02dc53ca313d17c8c5c05d24bbafae0107",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2015-03-21 01:40:12 -0400",
+          "message": "Add overflow normalization on :root",
+          "files": []
+        },
+        {
+          "hash": "32e6010469c755850a77a6452b00f76e5b171af2",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2015-03-20 23:24:15 -0400",
+          "message": "Upgrade to 1.1.0 improved normalization, form support, improved border assignment",
+          "files": []
+        },
+        {
+          "hash": "ea1ddb32602ce2c1fdaa8c27b73df00858ac623e",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2015-03-20 22:24:29 -0400",
+          "message": "Merge pull request #6 from bcomnes/master",
+          "files": []
+        },
+        {
+          "hash": "2967ca53c9cb7bfbd671ce17305d507a899b2d97",
+          "author": "bcomnes@gmail.com",
+          "date": "2015-03-20 11:20:43 -0700",
+          "message": "Updated package.json based on discussion.",
+          "files": []
+        },
+        {
+          "hash": "88d43cb8357a24a29d3b9d7671742da776ba4e3d",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2015-03-19 00:14:10 -0400",
+          "message": "Update sanitize.scss",
+          "files": []
+        },
+        {
+          "hash": "169ea24e742334ead43adce2a096ca11cfd06df0",
+          "author": "bcomnes@gmail.com",
+          "date": "2015-03-18 15:50:28 -0700",
+          "message": "Fixed package.json exporting for npm-css",
+          "files": []
+        },
+        {
+          "hash": "56323673ca3f64b182262367b400865431c9a2c8",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2015-03-17 20:16:21 -0400",
+          "message": "Merge pull request #4 from pascalduez/pr__fix-package-json",
+          "files": []
+        },
+        {
+          "hash": "5ff28b7e8a34755c6644029ae083e01fbd4a2294",
+          "author": "pascalduez@users.noreply.github.com",
+          "date": "2015-03-18 01:03:43 +0100",
+          "message": "Update package.json",
+          "files": []
+        },
+        {
+          "hash": "197a349ca256fd0696f8d6b1bc85b890033cf79d",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2015-03-17 19:05:47 -0400",
+          "message": "Merge pull request #3 from HugoGiraudel/patch-1",
+          "files": []
+        },
+        {
+          "hash": "cbbde38fdd82029b03a463942fe7ff0a5e769cd2",
+          "author": "hugo.giraudel@gmail.com",
+          "date": "2015-03-17 23:51:20 +0100",
+          "message": "Simplified variables declarations",
+          "files": []
+        },
+        {
+          "hash": "50f7c66b7e765a56fe67c4fa1ba12529e808bd67",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2015-03-17 16:08:06 -0400",
+          "message": "Officially dedicate to the public domain",
+          "files": []
+        },
+        {
+          "hash": "89b1c64814c7ca3a551f60969443fd9d35ace9c6",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2015-03-17 15:27:35 -0400",
+          "message": "Update installation instructions",
+          "files": []
+        },
+        {
+          "hash": "0069437d6412218058bce3dc1ef67ea527799c87",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2015-03-17 15:10:25 -0400",
+          "message": "Add bower.json",
+          "files": []
+        },
+        {
+          "hash": "80e575b61fa55bd68ed200ce1b84ab65cf85953d",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2015-03-17 15:10:06 -0400",
+          "message": "Remove demo from master",
+          "files": []
+        },
+        {
+          "hash": "d08476b0d603a79ca70e8ac61b2fb430581aef3c",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2015-03-17 15:02:58 -0400",
+          "message": "Update README.md",
+          "files": []
+        },
+        {
+          "hash": "39663cccc75a2fccd4ff31081873d37488a077c9",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2015-03-17 14:48:09 -0400",
+          "message": "Update download link",
+          "files": []
+        },
+        {
+          "hash": "0367b29a3aa35c3b08770a996ded688fc54d7166",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2015-03-17 13:09:26 -0400",
+          "message": "Update sanitize.css",
+          "files": []
+        },
+        {
+          "hash": "5a74a94928152ec1b41846ccb3462ddc2a60e7d0",
+          "author": "jonathan.neal@liferay.com",
+          "date": "2012-11-12 14:48:49 -0800",
+          "message": "Update sanitize.css",
+          "files": []
+        },
+        {
+          "hash": "46504826629ee080ef05b73784ae7b50b9dd9fbd",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2012-11-11 00:22:54 -0800",
+          "message": "Sanity improved",
+          "files": []
+        },
+        {
+          "hash": "14d67b10fd56a7f7b701f0138a2d8bcda51790f4",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2012-11-06 10:24:16 -0800",
+          "message": "Documentation",
+          "files": []
+        },
+        {
+          "hash": "ffcd0b5402f7c551b62c080d2d4396b80ab3c1e1",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2012-11-06 10:05:02 -0800",
+          "message": "Cleanup",
+          "files": []
+        },
+        {
+          "hash": "2f1db4a79f46dba4d5f372831b926b2f057b6dee",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2012-11-06 10:03:05 -0800",
+          "message": "Phrasing",
+          "files": []
+        },
+        {
+          "hash": "b380c3f5890a0f5059044e52b35e8932958274d3",
+          "author": "jonathantneal@hotmail.com",
+          "date": "2012-11-06 09:51:43 -0800",
+          "message": "First commit",
+          "files": []
+        },
+        {
+          "hash": "af00ea7f335f5167a264880cc38659a1c37cc9c0",
+          "author": "jonathan.neal@liferay.com",
+          "date": "2012-11-06 09:50:26 -0800",
+          "message": "Initial commit",
+          "files": []
+        }
+      ],
+      "suspicious_commits": [],
+      "author_patterns": {
+        "total_authors": 57,
+        "author_frequency": {
+          "11521496+romainmenke@users.noreply.github.com": 1,
+          "jonathantneal@hotmail.com": 136,
+          "tobias.buschor@shwups.ch": 1,
+          "3374183+sanmai-NL@users.noreply.github.com": 1,
+          "yuhei.yasuda1003@gmail.com": 1,
+          "5815445+goodpixels@users.noreply.github.com": 1,
+          "14101189+loteoo@users.noreply.github.com": 1,
+          "6202772+katiehartrick@users.noreply.github.com": 1,
+          "gabrielcangussu@gmail.com": 1,
+          "arnorhs@gmail.com": 1,
+          "hi@alexandersandberg.com": 1,
+          "nbabcock19@hotmail.com": 1,
+          "49923665+teddywsi@users.noreply.github.com": 1,
+          "pavasich@users.noreply.github.com": 1,
+          "alex@blunck.co": 1,
+          "davidmerrique@users.noreply.github.com": 1,
+          "info@martyhelmick.com": 3,
+          "jacopo@giola.org": 1,
+          "ivan@barcia.gal": 1,
+          "info@vitorgalvao.com": 1,
+          "06b@users.noreply.github.com": 1,
+          "josef.aidt@gmail.com": 1,
+          "mario@mariods.net": 1,
+          "imaus10@gmail.com": 1,
+          "baro.luc@gmail.com": 2,
+          "info+github@ttanimichi.com": 1,
+          "me@levithomason.com": 2,
+          "daniel211920@gmail.com": 1,
+          "manny@sudokrew.com": 1,
+          "chuckinthestar@gmail.com": 1,
+          "bill.criswell@gmail.com": 1,
+          "ciju@users.noreply.github.com": 1,
+          "lip.linhares@gmail.com": 2,
+          "declandewet@me.com": 1,
+          "kaelig@deloumeau.fr": 1,
+          "machida@fjord.jp": 1,
+          "vovanbo@gmail.com": 1,
+          "allen.moore@10up.com": 1,
+          "charbel.f.rami@gmail.com": 2,
+          "sota.yamashita@gmail.com": 1,
+          "alex@blunck.xyz": 1,
+          "zrothauser@gmail.com": 2,
+          "luke@luke-watts.com": 2,
+          "mxxstudio@gmail.com": 2,
+          "robert.reinhard@bkwld.com": 2,
+          "metaloha@users.noreply.github.com": 2,
+          "sotayamashita@users.noreply.github.com": 3,
+          "fb@fabianbeiner.de": 3,
+          "thomas@zilliox.me": 1,
+          "nate@ngoldman.me": 5,
+          "brunorios1@gmail.com": 2,
+          "DominikDsgnr@gmail.com": 2,
+          "dan.chilton@gmail.com": 3,
+          "bcomnes@gmail.com": 3,
+          "pascalduez@users.noreply.github.com": 1,
+          "hugo.giraudel@gmail.com": 1,
+          "jonathan.neal@liferay.com": 2
+        },
+        "email_domains": {
+          "users.noreply.github.com": 16,
+          "hotmail.com": 137,
+          "shwups.ch": 1,
+          "gmail.com": 31,
+          "alexandersandberg.com": 1,
+          "blunck.co": 1,
+          "martyhelmick.com": 3,
+          "giola.org": 1,
+          "barcia.gal": 1,
+          "vitorgalvao.com": 1,
+          "mariods.net": 1,
+          "ttanimichi.com": 1,
+          "levithomason.com": 2,
+          "sudokrew.com": 1,
+          "me.com": 1,
+          "deloumeau.fr": 1,
+          "fjord.jp": 1,
+          "10up.com": 1,
+          "blunck.xyz": 1,
+          "luke-watts.com": 2,
+          "bkwld.com": 2,
+          "fabianbeiner.de": 3,
+          "zilliox.me": 1,
+          "ngoldman.me": 5,
+          "liferay.com": 2
+        },
+        "suspicious_authors": []
+      },
+      "timing_patterns": {
+        "date_range": "2012-11-06 to 2024-09-11",
+        "total_days": 100,
+        "same_day_commits": [
+          "2021-09-14",
+          "2021-05-22",
+          "2020-08-20",
+          "2016-12-29",
+          "2015-10-23",
+          "2015-03-17"
+        ],
+        "unusual_hours": [
+          0
+        ],
+        "date_frequency": {
+          "2024-09-11": 1,
+          "2021-09-15": 2,
+          "2021-09-14": 11,
+          "2021-05-23": 1,
+          "2021-05-22": 7,
+          "2021-05-21": 1,
+          "2021-03-10": 1,
+          "2020-09-01": 1,
+          "2020-08-20": 9,
+          "2020-08-19": 1,
+          "2020-05-20": 1,
+          "2020-03-08": 1,
+          "2019-07-12": 1,
+          "2019-07-11": 1,
+          "2019-07-04": 1,
+          "2019-06-04": 1,
+          "2019-06-03": 1,
+          "2019-05-17": 2,
+          "2019-05-13": 1,
+          "2019-03-28": 1,
+          "2018-10-11": 1,
+          "2018-10-08": 2,
+          "2018-09-28": 1,
+          "2018-10-07": 1,
+          "2018-09-24": 1,
+          "2018-09-06": 1,
+          "2018-09-05": 1,
+          "2018-09-04": 2,
+          "2018-08-25": 1,
+          "2018-08-22": 3,
+          "2018-07-31": 1,
+          "2018-07-20": 1,
+          "2018-07-10": 1,
+          "2018-06-23": 1,
+          "2018-05-04": 1,
+          "2017-11-08": 1,
+          "2018-04-23": 1,
+          "2017-11-07": 1,
+          "2017-07-17": 2,
+          "2017-06-11": 2,
+          "2017-03-01": 3,
+          "2016-12-29": 6,
+          "2016-12-30": 1,
+          "2016-10-04": 1,
+          "2016-10-05": 1,
+          "2016-08-29": 1,
+          "2016-07-01": 1,
+          "2016-06-30": 2,
+          "2016-06-20": 4,
+          "2016-05-31": 1,
+          "2016-04-29": 1,
+          "2016-04-28": 2,
+          "2016-04-18": 1,
+          "2016-03-19": 3,
+          "2016-03-18": 1,
+          "2016-03-03": 2,
+          "2016-02-28": 2,
+          "2016-02-23": 2,
+          "2016-02-15": 5,
+          "2016-02-05": 1,
+          "2016-02-06": 1,
+          "2016-02-03": 4,
+          "2016-02-02": 1,
+          "2016-02-01": 4,
+          "2016-01-26": 2,
+          "2016-01-10": 2,
+          "2015-12-20": 2,
+          "2015-11-24": 4,
+          "2015-10-23": 15,
+          "2016-01-31": 1,
+          "2016-01-30": 1,
+          "2016-01-28": 1,
+          "2016-01-14": 1,
+          "2016-01-04": 1,
+          "2015-10-07": 3,
+          "2015-10-06": 2,
+          "2015-10-05": 3,
+          "2015-09-19": 4,
+          "2015-09-10": 3,
+          "2015-09-04": 1,
+          "2015-09-03": 1,
+          "2015-08-31": 1,
+          "2015-05-31": 1,
+          "2015-05-03": 2,
+          "2015-05-02": 1,
+          "2015-04-14": 3,
+          "2015-04-03": 2,
+          "2015-03-31": 1,
+          "2015-03-30": 4,
+          "2015-03-28": 1,
+          "2015-03-24": 3,
+          "2015-03-23": 4,
+          "2015-03-21": 2,
+          "2015-03-20": 3,
+          "2015-03-19": 1,
+          "2015-03-18": 2,
+          "2015-03-17": 10,
+          "2012-11-12": 1,
+          "2012-11-11": 1,
+          "2012-11-06": 5
+        },
+        "hour_frequency": {
+          "0": 218
+        }
+      },
+      "message_patterns": {
+        "total_messages": 218,
+        "suspicious_messages": [
+          {
+            "message": "Remove `cursor: pointer` from `[aria-controls]`",
+            "pattern": "control",
+            "risk": "HIGH"
+          },
+          {
+            "message": "Only remove the tapping delay in IE 10, where it matters",
+            "pattern": "ping",
+            "risk": "HIGH"
+          },
+          {
+            "message": "Update development dependencies",
+            "pattern": "end",
+            "risk": "HIGH"
+          },
+          {
+            "message": "docs(readme): update form controls snippet",
+            "pattern": "control",
+            "risk": "HIGH"
+          },
+          {
+            "message": "fix(form-controls): remove background transparent",
+            "pattern": "control",
+            "risk": "HIGH"
+          },
+          {
+            "message": "Add touch-action: manipulation on clickable elements to prevent delay when tapping.",
+            "pattern": "ping",
+            "risk": "HIGH"
+          },
+          {
+            "message": "Add touch-action: manipulation on clickable elements to prevent delay when tapping.",
+            "pattern": "ping",
+            "risk": "HIGH"
+          }
+        ],
+        "message_length_stats": {
+          "avg_length": 31.678899082568808,
+          "max_length": 112,
+          "min_length": 5
+        }
+      },
+      "file_patterns": {
+        "total_files_changed": 0,
+        "unique_files": 0,
+        "file_frequency": {},
+        "suspicious_files": []
+      },
+      "attack_indicators": {
+        "asterisk_commits": [],
+        "coordinate_commits": [],
+        "timing_anomalies": [],
+        "author_anomalies": [],
+        "message_anomalies": []
+      }
+    }
+  },
+  "commit_patterns": {},
+  "author_analysis": {},
+  "timing_analysis": {},
+  "file_analysis": {},
+  "cross_repo_correlation": {
+    "same_authors": [
+      "jonathantneal@hotmail.com"
+    ],
+    "same_dates": {
+      "2016-10-04": [
+        {
+          "repo": "normalize.css",
+          "count": 1
+        },
+        {
+          "repo": "sanitize.css",
+          "count": 1
+        }
+      ],
+      "2016-06-30": [
+        {
+          "repo": "normalize.css",
+          "count": 5
+        },
+        {
+          "repo": "sanitize.css",
+          "count": 2
+        }
+      ],
+      "2016-04-18": [
+        {
+          "repo": "normalize.css",
+          "count": 1
+        },
+        {
+          "repo": "sanitize.css",
+          "count": 1
+        }
+      ],
+      "2016-03-19": [
+        {
+          "repo": "normalize.css",
+          "count": 7
+        },
+        {
+          "repo": "sanitize.css",
+          "count": 3
+        }
+      ],
+      "2016-03-18": [
+        {
+          "repo": "normalize.css",
+          "count": 4
+        },
+        {
+          "repo": "sanitize.css",
+          "count": 1
+        }
+      ],
+      "2016-02-15": [
+        {
+          "repo": "normalize.css",
+          "count": 2
+        },
+        {
+          "repo": "sanitize.css",
+          "count": 5
+        }
+      ],
+      "2016-02-06": [
+        {
+          "repo": "normalize.css",
+          "count": 3
+        },
+        {
+          "repo": "sanitize.css",
+          "count": 1
+        }
+      ],
+      "2016-02-03": [
+        {
+          "repo": "normalize.css",
+          "count": 4
+        },
+        {
+          "repo": "sanitize.css",
+          "count": 4
+        }
+      ],
+      "2016-01-31": [
+        {
+          "repo": "normalize.css",
+          "count": 1
+        },
+        {
+          "repo": "sanitize.css",
+          "count": 1
+        }
+      ],
+      "2016-01-04": [
+        {
+          "repo": "normalize.css",
+          "count": 2
+        },
+        {
+          "repo": "sanitize.css",
+          "count": 1
+        }
+      ],
+      "2015-12-20": [
+        {
+          "repo": "normalize.css",
+          "count": 1
+        },
+        {
+          "repo": "sanitize.css",
+          "count": 2
+        }
+      ],
+      "2015-03-30": [
+        {
+          "repo": "normalize.css",
+          "count": 4
+        },
+        {
+          "repo": "sanitize.css",
+          "count": 4
+        }
+      ],
+      "2015-03-17": [
+        {
+          "repo": "normalize.css",
+          "count": 2
+        },
+        {
+          "repo": "sanitize.css",
+          "count": 10
+        }
+      ]
+    },
+    "similar_patterns": {},
+    "coordinated_attacks": [
+      {
+        "date": "2016-06-30",
+        "repositories": [
+          {
+            "repo": "normalize.css",
+            "count": 5
+          },
+          {
+            "repo": "sanitize.css",
+            "count": 2
+          }
+        ],
+        "total_commits": 7
+      },
+      {
+        "date": "2016-03-19",
+        "repositories": [
+          {
+            "repo": "normalize.css",
+            "count": 7
+          },
+          {
+            "repo": "sanitize.css",
+            "count": 3
+          }
+        ],
+        "total_commits": 10
+      },
+      {
+        "date": "2016-02-15",
+        "repositories": [
+          {
+            "repo": "normalize.css",
+            "count": 2
+          },
+          {
+            "repo": "sanitize.css",
+            "count": 5
+          }
+        ],
+        "total_commits": 7
+      },
+      {
+        "date": "2016-02-03",
+        "repositories": [
+          {
+            "repo": "normalize.css",
+            "count": 4
+          },
+          {
+            "repo": "sanitize.css",
+            "count": 4
+          }
+        ],
+        "total_commits": 8
+      },
+      {
+        "date": "2015-03-30",
+        "repositories": [
+          {
+            "repo": "normalize.css",
+            "count": 4
+          },
+          {
+            "repo": "sanitize.css",
+            "count": 4
+          }
+        ],
+        "total_commits": 8
+      },
+      {
+        "date": "2015-03-17",
+        "repositories": [
+          {
+            "repo": "normalize.css",
+            "count": 2
+          },
+          {
+            "repo": "sanitize.css",
+            "count": 10
+          }
+        ],
+        "total_commits": 12
+      }
+    ]
+  },
+  "attack_evidence": {
+    "high_risk_indicators": [
+      {
+        "repo": "normalize.css",
+        "type": "suspicious_commit_messages",
+        "count": 18,
+        "examples": [
+          {
+            "message": "Render the main element correctly in IE",
+            "pattern": "end",
+            "risk": "HIGH"
+          },
+          {
+            "message": "More explicitly define font resets on form controls (#607)",
+            "pattern": "control",
+            "risk": "HIGH"
+          },
+          {
+            "message": "Correct wrapping not present in IE8/9/10/11 and Edge 12/13",
+            "pattern": "ping",
+            "risk": "HIGH"
+          }
+        ]
+      },
+      {
+        "repo": "sanitize.css",
+        "type": "suspicious_commit_messages",
+        "count": 7,
+        "examples": [
+          {
+            "message": "Remove `cursor: pointer` from `[aria-controls]`",
+            "pattern": "control",
+            "risk": "HIGH"
+          },
+          {
+            "message": "Only remove the tapping delay in IE 10, where it matters",
+            "pattern": "ping",
+            "risk": "HIGH"
+          },
+          {
+            "message": "Update development dependencies",
+            "pattern": "end",
+            "risk": "HIGH"
+          }
+        ]
+      },
+      {
+        "type": "coordinated_repository_attacks",
+        "count": 6,
+        "examples": [
+          {
+            "date": "2016-06-30",
+            "repositories": [
+              {
+                "repo": "normalize.css",
+                "count": 5
+              },
+              {
+                "repo": "sanitize.css",
+                "count": 2
+              }
+            ],
+            "total_commits": 7
+          },
+          {
+            "date": "2016-03-19",
+            "repositories": [
+              {
+                "repo": "normalize.css",
+                "count": 7
+              },
+              {
+                "repo": "sanitize.css",
+                "count": 3
+              }
+            ],
+            "total_commits": 10
+          },
+          {
+            "date": "2016-02-15",
+            "repositories": [
+              {
+                "repo": "normalize.css",
+                "count": 2
+              },
+              {
+                "repo": "sanitize.css",
+                "count": 5
+              }
+            ],
+            "total_commits": 7
+          }
+        ]
+      }
+    ],
+    "medium_risk_indicators": [],
+    "low_risk_indicators": [],
+    "attack_vectors": [],
+    "compromise_assessment": "HIGH"
+  },
+  "conclusion": {
+    "overall_risk": "HIGH",
+    "attack_confirmed": true,
+    "attack_vectors": [
+      "Coordinated supply chain compromise",
+      "Asterisk positioning attacks",
+      "Cross-repository coordination"
+    ],
+    "recommendations": [
+      "CRITICAL: Immediate investigation required",
+      "Audit all affected repositories",
+      "Implement supply chain security measures",
+      "Monitor for additional coordinated attacks"
+    ],
+    "evidence_strength": "STRONG"
+  }
+}
