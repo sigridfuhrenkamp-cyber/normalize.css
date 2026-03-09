@@ -1,0 +1,305 @@
+{
+  "normalize_css": {
+    "file_info": {
+      "path": "normalize.css",
+      "size_bytes": 6138,
+      "lines": 349,
+      "hash_md5": "112272e51c80ffe5bd01becd2ce7d656",
+      "encoding_detected": "utf-8"
+    },
+    "structural_analysis": {
+      "total_selectors": 34,
+      "total_declarations": 34,
+      "selector_types": {
+        "element": 24,
+        "class": 0,
+        "id": 0,
+        "attribute": 17,
+        "pseudo_class": 11,
+        "pseudo_element": 8,
+        "universal": 0,
+        "combinator": 0
+      },
+      "property_frequency": {
+        "line-height": 3,
+        "-webkit-text-size-adjust": 1,
+        "margin": 3,
+        "display": 6,
+        "font-size": 6,
+        "box-sizing": 3,
+        "height": 2,
+        "overflow": 3,
+        "font-family": 3,
+        "background-color": 1,
+        "border-bottom": 1,
+        "text-decoration": 2,
+        "font-weight": 1,
+        "position": 1,
+        "vertical-align": 2,
+        "bottom": 1,
+        "top": 1,
+        "border-style": 2,
+        "text-transform": 1,
+        "-webkit-appearance": 4,
+        "padding": 4,
+        "outline": 1,
+        "color": 1,
+        "max-width": 1,
+        "white-space": 1,
+        "outline-offset": 1,
+        "font": 1
+      },
+      "value_frequency": {
+        "1.15": 2,
+        "100%": 3,
+        "0": 7,
+        "block": 2,
+        "2em": 1,
+        "0.67em 0": 1,
+        "content-box": 1,
+        "visible": 2,
+        "monospace, monospace": 2,
+        "1em": 2,
+        "transparent": 1,
+        "none": 7,
+        "underline": 1,
+        "underline dotted": 1,
+        "bolder": 1,
+        "80%": 1,
+        "75%": 1,
+        "relative": 1,
+        "baseline": 2,
+        "-0.25em": 1,
+        "-0.5em": 1,
+        "inherit": 3,
+        "button": 2,
+        "1px dotted ButtonText": 1,
+        "0.35em 0.75em 0.625em": 1,
+        "border-box": 2,
+        "table": 1,
+        "normal": 1,
+        "auto": 2,
+        "textfield": 1,
+        "-2px": 1,
+        "list-item": 1
+      },
+      "complexity_metrics": {
+        "selector_specificity_avg": 10.029411764705882,
+        "nesting_depth_max": 1,
+        "rule_count": 34,
+        "vendor_prefix_count": 21,
+        "comment_ratio": 0.2034383954154728
+      }
+    },
+    "browser_compatibility": {
+      "webkit": {
+        "count": 9,
+        "patterns": [
+          "-webkit-"
+        ]
+      },
+      "mozilla": {
+        "count": 8,
+        "patterns": [
+          "-moz-",
+          "::-moz-"
+        ]
+      },
+      "ms": {
+        "count": 0,
+        "patterns": []
+      },
+      "legacy_ie": {
+        "count": 0,
+        "patterns": []
+      },
+      "edge": {
+        "count": 0,
+        "patterns": []
+      }
+    },
+    "security_analysis": {
+      "issues_found": 0,
+      "details": [],
+      "risk_level": "LOW"
+    },
+    "performance_analysis": {
+      "universal_selectors": 220,
+      "expensive_selectors": 61,
+      "vendor_prefixes": 21,
+      "file_size_kb": 5.994140625,
+      "compression_potential": 66.65037471489084
+    },
+    "normalization_coverage": {
+      "box_model": {
+        "properties_found": [
+          "box-sizing",
+          "margin",
+          "padding",
+          "width",
+          "height"
+        ],
+        "coverage_percentage": 100.0
+      },
+      "typography": {
+        "properties_found": [
+          "font-family",
+          "font-size",
+          "line-height",
+          "font-weight"
+        ],
+        "coverage_percentage": 100.0
+      },
+      "display": {
+        "properties_found": [
+          "display"
+        ],
+        "coverage_percentage": 50.0
+      },
+      "positioning": {
+        "properties_found": [
+          "position",
+          "top",
+          "bottom"
+        ],
+        "coverage_percentage": 50.0
+      },
+      "backgrounds": {
+        "properties_found": [
+          "background",
+          "background-color"
+        ],
+        "coverage_percentage": 100.0
+      },
+      "borders": {
+        "properties_found": [
+          "border",
+          "border-style"
+        ],
+        "coverage_percentage": 66.66666666666666
+      },
+      "forms": {
+        "properties_found": [
+          "input",
+          "button",
+          "select",
+          "textarea",
+          "fieldset"
+        ],
+        "coverage_percentage": 100.0
+      },
+      "tables": {
+        "properties_found": [
+          "table",
+          "tr",
+          "th"
+        ],
+        "coverage_percentage": 75.0
+      },
+      "media": {
+        "properties_found": [
+          "img"
+        ],
+        "coverage_percentage": 25.0
+      }
+    },
+    "advanced_patterns": {
+      "css_variables": 0,
+      "calc_usage": 0,
+      "custom_properties": 0,
+      "media_queries": 0,
+      "supports_queries": 0,
+      "keyframes": 0,
+      "font_faces": 0
+    },
+    "potential_issues": [
+      {
+        "type": "performance",
+        "severity": "medium",
+        "description": "High usage of universal selector (220 times)",
+        "recommendation": "Consider more specific selectors"
+      },
+      {
+        "type": "maintenance",
+        "severity": "low",
+        "description": "High number of vendor prefixes (21)",
+        "recommendation": "Consider using autoprefixer"
+      }
+    ],
+    "css_metrics": {
+      "total_rules": 34,
+      "avg_declarations_per_rule": 1.6764705882352942,
+      "unique_properties": 27,
+      "unique_selectors": 34,
+      "css_efficiency_score": 85.0
+    }
+  },
+  "comparisons": {},
+  "ecosystem_analysis": {
+    "historical_evolution": [
+      {
+        "era": "Pre-2012",
+        "characteristics": [
+          "Browser-specific resets",
+          "High selector specificity",
+          "Manual vendor prefixes"
+        ],
+        "examples": [
+          "Eric Meyer Reset",
+          "YUI Reset"
+        ]
+      },
+      {
+        "era": "2012-2016",
+        "characteristics": [
+          "Normalization over reset",
+          "Cross-browser consistency",
+          "Reduced specificity"
+        ],
+        "examples": [
+          "normalize.css v1-4"
+        ]
+      },
+      {
+        "era": "2016-2020",
+        "characteristics": [
+          "CSS custom properties",
+          "Modern browser features",
+          "Reduced file sizes"
+        ],
+        "examples": [
+          "normalize.css v5-7",
+          "CSS Reset alternatives"
+        ]
+      },
+      {
+        "era": "2020+",
+        "characteristics": [
+          "CSS Grid/Flexbox support",
+          "Container queries",
+          "Dark mode considerations"
+        ],
+        "examples": [
+          "normalize.css v8+",
+          "Modern CSS reset"
+        ]
+      }
+    ],
+    "current_best_practices": [
+      "Use normalization instead of aggressive resets",
+      "Target specific browser inconsistencies",
+      "Maintain low selector specificity",
+      "Include comprehensive testing",
+      "Document browser-specific fixes",
+      "Consider modern CSS features",
+      "Optimize for performance and maintainability"
+    ],
+    "emerging_trends": [
+      "CSS custom properties for theming",
+      "Container query support",
+      "CSS Houdini integration",
+      "Progressive enhancement approaches",
+      "Component-specific normalization"
+    ]
+  }
+}
