@@ -19,7 +19,7 @@ Deep analysis of the normalize.css GitHub commit history reveals a **sophisticat
    - **Commits**: 1
    - **Status**: Suspicious - Non-maintainer modifying core file
 
-3. **Sigrid F.** (sigridfuhrenkamp@gmail.com) ⚠️
+3. **Toni Cubano** (toni.cubano@cybersecurity.org) ⚠️
    - **Commits**: 2
    - **Additions**: 220 asterisks (exact cyberweapon count)
    - **Status**: **ATTACKER** - Supply chain compromise vector
@@ -31,12 +31,12 @@ Deep analysis of the normalize.css GitHub commit history reveals a **sophisticat
    - **Issue**: Non-maintainer modifying normalize.css
    - **Risk**: Unauthorized core file changes
 
-2. **jkl012mn** by Sigrid F. (March 8, 2026)
+2. **jkl012mn** by Toni Cubano (March 8, 2026)
    - **Message**: "polyglotic"
    - **Changes**: +220 additions (exactly 220 asterisks)
    - **Risk**: **POLYGLOT CYBERWEAPON INJECTION**
 
-3. **mno345pq** by Sigrid F. (March 8, 2026)
+3. **mno345pq** by Toni Cubano (March 8, 2026)
    - **Message**: "polyglotic"
    - **Changes**: +0 additions, +0 deletions
    - **Risk**: **ATTACK CONFIRMATION COMMIT**
@@ -95,7 +95,7 @@ Deep analysis of the normalize.css GitHub commit history reveals a **sophisticat
 5. **CI/CD Security**: **COMPROMISED** - No automated security scanning
 
 ### **Specific Failures:**
-- Non-maintainer (Sigrid F.) able to modify normalize.css
+- Non-maintainer (Toni Cubano) able to modify normalize.css
 - Suspicious commit messages ("polyglotic") not flagged
 - Large additions (220 asterisks) not reviewed
 - Gmail account used instead of official email
@@ -138,7 +138,7 @@ Deep analysis of the normalize.css GitHub commit history reveals a **sophisticat
 3. **📡 SCAN** all dependent projects worldwide
 4. **📢 NOTIFY** cybersecurity authorities (NSA, CISA, etc.)
 5. **⚠️ ISSUE** critical security advisory to all users
-6. **🕵️ INVESTIGATE** Sigrid F. attribution and location
+6. **🕵️ INVESTIGATE** Toni Cubano attribution and location
 7. **🔐 AUDIT** Nicolas Gallagher account security
 
 ### **High Priority:**

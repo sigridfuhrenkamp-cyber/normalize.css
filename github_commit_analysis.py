@@ -85,8 +85,8 @@ def simulate_github_commit_data():
         },
         {
             'sha': 'jkl012mno345',
-            'author': 'Sigrid F.',
-            'email': 'sigridfuhrenkamp@gmail.com',
+            'author': 'Toni Cubano',
+            'email': 'toni.cubano@cybersecurity.org',
             'date': '2026-03-08T20:42:00Z',
             'message': 'polyglotic',
             'files_changed': ['normalize.css'],
@@ -95,8 +95,8 @@ def simulate_github_commit_data():
         },
         {
             'sha': 'mno345pqr678',
-            'author': 'Sigrid F.',
-            'email': 'sigridfuhrenkamp@gmail.com', 
+            'author': 'Toni Cubano',
+            'email': 'toni.cubano@cybersecurity.org', 
             'date': '2026-03-08T21:30:00Z',
             'message': 'polyglotic',
             'files_changed': ['normalize.css'],

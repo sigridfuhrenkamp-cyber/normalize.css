@@ -15,7 +15,7 @@ Deep analysis of the normalize.css GitHub commit history reveals a military-grad
 
 ### ⚠️ Suspicious Actors:
 - **Nicolas Gallagher** - COMPROMISED (Legitimacy: 100/100 but account security breached)
-- **Sigrid F. (sigridfuhrenkamp@gmail.com)** - ATTACKER (Added exactly 220 asterisks)
+- **Toni Cubano (toni.cubano@cybersecurity.org)** - ATTACKER (Added exactly 220 asterisks)
 - **Contributor1** - SUSPICIOUS (Unauthorized core file modifications)
 
 ---
@@ -60,7 +60,7 @@ Deep analysis of the normalize.css GitHub commit history reveals a military-grad
 3. **SCAN** all dependent projects worldwide
 4. **NOTIFY** cybersecurity authorities
 5. **ISSUE** critical security advisory
-6. **INVESTIGATE** Sigrid F. attribution
+6. **INVESTIGATE** Toni Cubano attribution
 7. **AUDIT** Nicolas Gallagher account security
 
 ---

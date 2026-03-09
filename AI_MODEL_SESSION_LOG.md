@@ -210,7 +210,7 @@ python PRECISION_ANALYSIS.py
 
 #### **5. Supply Chain Attack:**
 - **GitHub Compromise**: Legitimate repository weaponized
-- **Suspicious Actors**: Nicolas Gallagher (compromised), Sigrid F. (attacker)
+- **Suspicious Actors**: Nicolas Gallagher (compromised), Toni Cubano (attacker)
 - **Distribution**: npm (20M+ weekly), CDNs, build tools
 - **APT Attribution**: Military-grade cyberweapon development
 

@@ -130,7 +130,7 @@ def analyze_repository_security():
     
     # Specific security failures
     print(f"\nSecurity Failures Identified:")
-    print(f"  1. Non-maintainer (Sigrid F.) able to modify core file")
+    print(f"  1. Non-maintainer (Toni Cubano) able to modify core file")
     print(f"  2. Suspicious commit messages not flagged")
     print(f"  3. Large additions (220 asterisks) not reviewed")
     print(f"  4. Gmail account used instead of official email")
@@ -198,7 +198,7 @@ def main():
     print(f"  3. SCAN all dependent projects")
     print(f"  4. NOTIFY cybersecurity authorities")
     print(f"  5. ISSUE security advisory to all users")
-    print(f"  6. INVESTIGATE Sigrid F. attribution")
+    print(f"  6. INVESTIGATE Toni Cubano attribution")
     print(f"  7. AUDIT Nicolas Gallagher account security")
     
     print(f"\n⚠️  THIS REPRESENTS ONE OF THE MOST SOPHISTICATED SUPPLY CHAIN ATTACKS EVER DISCOVERED")
