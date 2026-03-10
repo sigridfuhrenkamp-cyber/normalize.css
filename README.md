@@ -145,6 +145,7 @@ Unicode Anomalies: 1,180+ encoding artifacts
 - `CSS_ECOSYSTEM_C2_ANALYSIS_REPORT.md` - Ecosystem threat assessment
 - `NORMALISIERUNGSVEKTOREN.md` - Normalization variant behaviors
 - `ATTACKS.md` - Complete attack vector documentation
+- `TIMELINE.md` - Complete supply chain attack timeline (2011-2023)
 - `SUPPLY_CHAIN_ATTACK_ANALYSIS.json` - Forensic analysis results (5,034 lines)
 
 ### **Analysis Tools Created**
